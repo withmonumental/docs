@@ -3,7 +3,7 @@ import { enNavbar } from "./navbar/index.js";
 import { enSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://monumental.app",
 
   author: {
     name: "Monumental Team",
@@ -14,7 +14,14 @@ export default hopeTheme({
 
   logo: "/monumental.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+
+  navbarLayout: {
+    start: ["Brand","Links"],
+    center: [],
+    end: ["Language", "Repo", "Outlook", "Search"]
+    },
+
+  //repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "demo/theme-docs/src",
 
@@ -26,7 +33,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Monumental Reference",
+      footer: "Monumental",
 
       displayFooter: true,
 
@@ -38,7 +45,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/monumental/encrypt.html": ["1234"],
+      "/monumental/encrypt.html": ["monumental"],
     },
   },
 
@@ -65,8 +72,8 @@ export default hopeTheme({
       /**
        * Using Waline
        */
-      provider: "Waline",
-      serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      // provider: "Waline",
+      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
     },
 
     // Disable features you don’t want here

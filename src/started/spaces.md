@@ -1,45 +1,41 @@
 ---
 # This is the title of the article
-title: Page Config
+title: Space
+pageInfo: false
 # This is the icon of the page
-icon: page
+# icon: page
 # This control sidebar order
-order: 1
+order: 3
 # Set author
-author: Ms.Hope
+# author: Monumental Team
 # Set writing time
-date: 2020-01-01
+date: 2023-01-01
 # A page can have multiple categories
-category:
-  - Guide
+#category:
+#  - Get Started
 # A page can have multiple tags
-tag:
-  - Page config
-  - Guide
+#tag:
+#  - Get Started
 # this page is sticky in article list
 sticky: true
 # this page will appear in starred articles
 star: true
 # You can customize footer content
-footer: Footer content for test
+#footer: Footer content for test
 # You can customize copyright content
 copyright: No Copyright
 ---
 
-Content before `more` comment is regarded as page excerpt.
 
-<!-- more -->
+## Definition
 
-## Page Information
+## Kind of spaces
 
-You can set page information in Markdown’s Frontmatter.
+## Space Accounts
+## Space Members
+## Space Contracts
 
-- The author is Ms.Hope.
-- The writing date is January 1, 2020
-- Category is "Guide"
-- Tags are "Page Config" and "Guide"
-
-## Page Content
+## Commissions and Fees
 
 You are free to write your Markdown here.
 

@@ -3,23 +3,23 @@ import { sidebar } from "vuepress-theme-hope";
 export const enSidebar = sidebar({
   "/": [
     {
-      icon: "star",
-      text: "Getting Started",
-      prefix: "monumental/",
-      link: "monumental/",
+      text: "Get Started",
+      prefix: "started/",
       children: "structure",
     },
     {
-      icon: "star",
-      text: "FAQ",
-      prefix: "faq/",
-      link: "faq/",
+      text: "Guides",
+      prefix: "guides/",
       children: "structure",
     },
     {
       text: "Legal",
-      icon: "note",
       prefix: "legal/",
+      children: "structure",
+    },
+    {
+      text: "Original",
+      prefix: "original/",
       children: "structure",
     },
     "slides",

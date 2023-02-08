@@ -1,7 +1,7 @@
 ---
 title: How to install and set up MetaMask
 icon: markdown
-order: 2
+order: 20
 category:
   - Legal
 tag:

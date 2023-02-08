@@ -1,7 +1,7 @@
 ---
 title: Disabling layout and features
 icon: config
-order: 3
+order: 30
 category:
   - Guide
 tag:

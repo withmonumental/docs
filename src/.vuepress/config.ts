@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
   base: "/",
@@ -7,10 +8,15 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Monumental",
-      description: "A docs demo for vuepress-theme-hope",
+      description: "Brings your valuable artworks to light",
     }
   },
+
+  plugins: [
+    searchPlugin({
+      // options
+    }),
+  ],
 
   theme,
 

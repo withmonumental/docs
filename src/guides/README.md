@@ -1,16 +1,16 @@
 ---
-title: Features Demo
+title: Guides
 index: false
 icon: discover
 category:
-  - Legal
+  - Guides
 ---
 
 ## Catalog
 
 - [Markdown Enhance](markdown.md)
 
-- [Page Config](page.md)
+- [Page Config](src/guides/faq.md)
 
 - [Function Disable](disable.md)
 

@@ -1,7 +1,8 @@
 ---
 icon: lock
+order: 30
 category:
-  - Legal
+  - Guide
 tag:
   - encryption
 ---

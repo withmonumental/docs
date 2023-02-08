@@ -1,16 +1,6 @@
 ---
 title: Legal
-icon: creative
+index: false
+category:
+  - Legal
 ---
-
-## Highlight Features
-
-### Bar
-
-- [baz](bar/baz.md)
-- ...
-
-### Foo
-
-- [ray](foo/ray.md)
-- ...
