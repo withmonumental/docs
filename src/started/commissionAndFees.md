@@ -1,6 +1,6 @@
 ---
 # This is the title of the article
-title: Commissions and fees
+title: Commission and fees
 pageInfo: false
 # This is the icon of the page
 # icon: page

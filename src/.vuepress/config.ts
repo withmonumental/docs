@@ -5,6 +5,10 @@ import { searchPlugin } from '@vuepress/plugin-search'
 export default defineUserConfig({
   base: "/",
 
+  head: [
+    ['link', { rel: 'icon', href: '/logo.png' }]
+  ],
+
   locales: {
     "/": {
       lang: "en-US",

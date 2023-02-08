@@ -26,9 +26,6 @@ star: true
 copyright: No Copyright
 ---
 
-
-## Motivation and Goals
-
 Spaces provide a showcase for exhibiting exceptional art created by handpicked, talented artists. The Space Team partners with these artists and collectors to develop and disseminate engaging content about the art they represent. Their goal is to elevate the visibility and financial success of the artists they support.
 
 > Space acts as an independant seller on the platform

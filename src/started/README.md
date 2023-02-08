@@ -6,20 +6,14 @@ category:
   - Guide
 ---
 
-## Catalog
+<br>
 
 - [Introduction](introduction.md)
 
 - [Spaces](spaces.md)
 
-- [Roles](roles.md)
+- [Roles and scope](roles.md)
 
-- [Space Contracts](src/started/commissionAndFees.md)
+- [Commission and fees](commissionAndFees.md)
 
-- [Markdown Enhance](markdown.md)
-
-- [Page Config](src/started/register.md)
-
-- [Function Disable](disable.md)
-
-- [Encryption Demo](encrypt.md)
+- [Register](register.md)

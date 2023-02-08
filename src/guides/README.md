@@ -6,7 +6,7 @@ category:
   - Guides
 ---
 
-## Catalog
+## Table of content
 
 - [Markdown Enhance](markdown.md)
 

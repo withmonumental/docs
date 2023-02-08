@@ -27,10 +27,6 @@ star: true
 copyright: No Copyright
 ---
 
-Welcome to Monumental, an NFT platform that empowers spaces like art galleries, artist collectives, and charities to represent and sell the work of their artists. Our platform provides participants in the web 3.0 era with the tools they need to curate their own selection of artists and artworks, giving them the ability to promote and sell these artworks online.
-
-## Overview
-
 Monumental is an NFT platform designed to empower art spaces such as galleries, artist collectives, and charities. The platform allows these spaces to curate their own selection of artists and artworks and provides them with the tools to sell and promote the work of their artists in the web 3.0 world. Monumental believes in the importance of community and diversity and is dedicated to giving art spaces the power to represent and sell their artists' works
 
 ## What we believed
