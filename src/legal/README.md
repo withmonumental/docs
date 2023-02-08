@@ -4,6 +4,8 @@ pageInfo: false
 index: false
 category:
   - Legal
+copyright: false
+footer: Monumental | Copyright © 2023
 ---
 
 <br>

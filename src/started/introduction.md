@@ -19,12 +19,9 @@ date: 2023-01-01
 #  - Get Started
 # this page is sticky in article list
 sticky: true
-# this page will appear in starred articles
 star: true
-# You can customize footer content
-#footer: Footer content for test
-# You can customize copyright content
-copyright: No Copyright
+copyright: false
+footer: Monumental | Copyright © 2023
 ---
 
 Monumental is an NFT platform designed to empower art spaces such as galleries, artist collectives, and charities. The platform allows these spaces to curate their own selection of artists and artworks and provides them with the tools to sell and promote the work of their artists in the web 3.0 world. Monumental believes in the importance of community and diversity and is dedicated to giving art spaces the power to represent and sell their artists' works

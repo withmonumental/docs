@@ -9,17 +9,23 @@ actions:
   - text: Get Started
     link: /started/
     type: primary
+    
+  - text: Go to Monumental.app    
+    link: https://monumental.app
 
 features:
   - title: Join Monumental
-    details: Invitation and Register
+    icon: config
+    details: How to register during the limited access period
     link: started/register
 
   - title: FAQ
+    icon: slides
     details: Find answers in our Frequently Ask Questions
     link: guides/faq
 
   - title: Legal
+    icon: page
     details: All legal documents you need to know.
     link: legal/
 

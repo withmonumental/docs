@@ -3,7 +3,9 @@ title: Get Started
 index: false
 #icon: discover
 category:
-  - Guide
+  - Get started
+copyright: false
+footer: Monumental | Copyright © 2023
 ---
 
 <br>

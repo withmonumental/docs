@@ -20,10 +20,8 @@ date: 2023-01-01
 sticky: true
 # this page will appear in starred articles
 star: true
-# You can customize footer content
-#footer: Footer content for test
-# You can customize copyright content
-copyright: No Copyright
+copyright: false
+footer: Monumental | Copyright © 2023
 ---
 
 Spaces provide a showcase for exhibiting exceptional art created by handpicked, talented artists. The Space Team partners with these artists and collectors to develop and disseminate engaging content about the art they represent. Their goal is to elevate the visibility and financial success of the artists they support.

@@ -20,10 +20,8 @@ date: 2023-01-01
 sticky: true
 # this page will appear in starred articles
 star: true
-# You can customize footer content
-#footer: Footer content for test
-# You can customize copyright content
-copyright: No Copyright
+copyright: false
+footer: Monumental | Copyright © 2023
 ---
 On Monumental, users can be assigned to one of the designated roles to grant them access to specific features. 
 Prior to any role change, the Monumental team performs a comprehensive assessment of the applicant to guarantee integrity and authenticity of available profiles.

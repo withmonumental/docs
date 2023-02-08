@@ -20,16 +20,20 @@ date: 2023-01-01
 sticky: true
 # this page will appear in starred articles
 star: true
-# You can customize footer content
-#footer: Footer content for test
-# You can customize copyright content
-copyright: No Copyright
+copyright: false
+footer: Monumental | Copyright © 2023
 ---
 
 # How to join Monumental
 
-During a limited period, access to the platform is not possible without an invitation. 
-These invitations are sent out by the managers of the spaces or the artists already on the platform.
+During a limited period, access to the platform is not public.
+This means that access to the platform is restricted and can only be obtained through either receiving an invitation from someone with the authority to provide one (Space Managers) or by submitting an application online.
+
+
+- [Apply as an artist/collector](https://monumental.app/apply/artist)
+
+- [Apply as a space manager](https://monumental.app/apply/manager)
+
 
 # How to register
 

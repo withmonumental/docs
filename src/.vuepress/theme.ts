@@ -10,6 +10,8 @@ export default hopeTheme({
         url: "https://monumental.app",
     },
 
+    backToTop: false ,
+
     iconAssets: "iconfont",
 
     logo: "/monumental.png",
