@@ -12,11 +12,11 @@ export default defineUserConfig({
     }
   },
 
-  plugins: [
-    searchPlugin({
-      // options
-    }),
-  ],
+  //plugins: [
+  //  searchPlugin({
+  //    // options
+//  }),
+  // ],
 
   theme,
 
