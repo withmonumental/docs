@@ -14,7 +14,7 @@ category:
 
 - [Roles](roles.md)
 
-- [Space Contracts](spaceContracts.md)
+- [Space Contracts](src/started/commissionAndFees.md)
 
 - [Markdown Enhance](markdown.md)
 

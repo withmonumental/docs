@@ -1,11 +1,11 @@
 ---
 # This is the title of the article
-title: Roles
+title: Roles and scope
 pageInfo: false
 # This is the icon of the page
 # icon: page
 # This control sidebar order
-order: 4
+order: 3
 # Set author
 # author: Monumental Team
 # Set writing time
@@ -25,42 +25,39 @@ star: true
 # You can customize copyright content
 copyright: No Copyright
 ---
-
+On Monumental, users can be assigned to one of the designated roles to grant them access to specific features. 
+Prior to any role change, the Monumental team performs a comprehensive assessment of the applicant to guarantee integrity and authenticity of available profiles.
 
 ## Guest
+As a guest, you are given the default role which allows you to view and appreciate the valuable artworks present in all spaces. However, you do not have the privilege to create artworks or make purchases. Your role is limited to exploring and enjoying the existing art pieces.
+
+::: warning
+This role is not available during the limited period.<br>
+Only authenticated user are allowed on the Monumental Platform.
+:::
 
 ## Collector
+As a collector, you have the opportunity to display the excellent pieces in your collection to a wider audience through the different available spaces. This platform allows you to highlight the unique qualities of your collection and share your passion for art with others. Additionally, the secondary market provides you with the option to monetize your collection by selling works that you own. Whether you're looking to downsize your collection, upgrade to more valuable pieces, or simply looking to generate some extra income, the secondary market offers you the chance to trade artworks with other collectors and art enthusiasts. So, being a collector not only lets you enjoy and appreciate art, but also gives you the ability to share your collection and potentially make a profit from it.
 
 ## Artist
+As an artist, you have the possibility to take advantage of digital technology to protect your intellectual property rights. 
+By creating a digital certificate, you can ensure that you have evidence of ownership over your art. 
+This digital certificate will serve as proof that you are the rightful owner of the art and will guarantee that you receive a portion of the profits from any future sales of the work. 
+Additionally, you can still sell some of your art stored in your digital wallet.
+However, it is important to note that in order to sell your art, you must first be a subscriber to a space, ensuring that your works are accessible to potential buyers.
 
 ## Space Manager
 
-You are free to write your Markdown here.
+A Monumental Space Manager serves as the space curator and is accountable for the following tasks:
 
-::: tip Assets
+- Inviting artists to become space members or guests via direct invitation from their profile.
+- Establishing fees and commissions for each artist's work sales through space contracts.
+- Conducting thorough verification of artists' profiles (authentication, artwork validation).
+- Ensuring all displayed artwork is legal and adheres to terms and conditions.
 
-- You can place images besides your Markdown files, but you should use **relative links** (i.e.: starting with `./`) for them.
+In addition, they promote the artists they represent by:
 
-- For images in `.vuepress/public` directory, please use absolute links (i.e.: starting with `/`) for them.
-
-:::
-
-The theme contains a custom badge:
-
-> A dark blue badge text badge at the end of line. <Badge text="Badge text" color="#242378" />
-
-## Page Structure
-
-This page should contain:
-
-- [BreadCrumb](https://theme-hope.vuejs.press/guide/layout/breadcrumb.html)
-- [Title and information](https://theme-hope.vuejs.press/guide/feature/page-info.html)
-- [TOC (Table of Contents)](https://theme-hope.vuejs.press/guide/layout/page.html#header-list)
-- [Meta information including update time and contributors](https://theme-hope.vuejs.press/guide/feature/meta.html)
-- [Comments](https://theme-hope.vuejs.press/guide/feature/comment.html)
-- [Navbar](https://theme-hope.vuejs.press/guide/layout/navbar.html)
-- [Sidebar](https://theme-hope.vuejs.press/guide/layout/sidebar.html)
-- [Footer](https://theme-hope.vuejs.press/guide/layout/footer.html)
-- Back to top button
-
-You can customize them in theme options and page frontmatter.
+- Defining collections.
+- Creating content to boost their artists.
+- Inviting collectors.
+- Utilizing web3 marketing tactics such as interviews, exhibitions in metaverses, physical exhibitions, and others to maximize space success.
