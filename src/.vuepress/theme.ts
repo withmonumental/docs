@@ -124,7 +124,18 @@ export default hopeTheme({
                             return {
                                 tag: "Badge",
                                 attrs: {type: "tip"},
-                                content: "Recommended",
+                                content: "active",
+                            };
+                    },
+                },
+                {
+                    matcher: "Recommended",
+                    replacer: ({tag}) => {
+                        if (tag === "em")
+                            return {
+                                tag: "Badge",
+                                attrs: {type: "tip"},
+                                content: "expired",
                             };
                     },
                 },
