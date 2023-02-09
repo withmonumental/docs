@@ -26,48 +26,74 @@ footer: Footer content for test
 # You can customize copyright content
 copyright: No Copyright
 ---
+The space manager’ s role is to manage and promote his artist on his space.
+The space manager is able to operate several activities from his personal space.
+To access his personal space:
+Select the user icon -> personal space -> SWITCH PRIVATE
 
-Content before `more` comment is regarded as page excerpt.
+## How to :
 
-<!-- more -->
+### Invite Artist
+Under the personal space, click on “SEND”, a window appears, provide with a valid email address of the artist to be invited and fill up the field “Message”
+An invitation will be sent to the artist providing him with the link to connect and register to the platform Monumental. A registry code will be automatically generated enabling the artist to register to the platform.
+Attention: This registry code is only available during a specific period.
 
-## Page Information
+### Set user as a member
+Under the Space Management section, a space manager can decide if an user becomes a member to his space. To do so, the space manager will need to add manually this user.
+First select the right space where the user will be defined as a member under “Current Space” by using the space list.
+Once the space has been selected, under section “ Space Members”, click on “+” a window appears, fill up the role from the available option, enter the user ETH public Address under the field “Member address” , then enter commission and fees applied to the space. 
+Click SAVE. The user is then added as a member to the space.
+The space manager can at anytime by selecting the user within the Space Members section, editing (commission or fees review) or removing the user.
 
-You can set page information in Markdown’s Frontmatter.
+### Accepting or rejecting Proposal from an artist
 
-- The author is Ms.Hope.
-- The writing date is January 1, 2020
-- Category is "Guide"
-- Tags are "Page Config" and "Guide"
+**Pending Proposal:**
+Once an artist is registered on the platform and he is not member of a space , he will be able to offer his artworks to be published on a space. The space manager has either the choice to accept or reject his proposal.
+Under the “Space Contracts” section, go the tab “Pending Proposal”, all pending proposal for a specific space will be listed under this section.
+By selecting one proposal, the space manager will be able to :
+-	Visualise the artwork
+-	Accept the artwork to be published on the space by clicking “accept”
+-	Reject the artwork to be published on the space by clicking “reject”
 
-## Page Content
+**Guest Contract:**
+If the space manager accepts the artwork, automatically a publishing contract will be generated with a specific valid period under the section “Guest Contract”. This contract allows the artist to sale his artwork during a valid period on this space.
 
-You are free to write your Markdown here.
+### Space Contracts section
+This section allows a space manager to manage all space contracts that have been generated on his space.
+Member contracts : list all publishing space that have been generated for members only. The different contract status will be shown in order to understand if a contract is still “active”, “expired” or “inactive”
+Guest Contracts : list all list all publishing space that have been generated for guest only. The different contract status will be shown in order to understand if a contract is still “active”, “expired” , “inactive” or “rejected”
+Pending proposal: list all pending proposal received on the space. For more information, please refer to “Accepting or rejecting Proposal from an artist”
 
-::: tip Assets
+### Digital Promotion
+Under the digital promotion section, the space manager is able to promote artworks published on his space. 
 
-- You can place images besides your Markdown files, but you should use **relative links** (i.e.: starting with `./`) for them.
+**COLLECTIONS:**
+He is in title to create a collection, gathering different artworks from artist on his space.
+Ensure the right space is primarily selected under the section” Current Space”.
+Click on “+” a window appears, fill up the different filed (Collection Name, Slogan, more information about the collection can be provided within the provided space).
+Click SAVE. The collection name will appear in the list. Select the newly created collection and add artworks to be present in this collection by clicking “ADD EDITIONS”.
+A window appears, select the member to whom the artworks should be part of this collection. A list of artworks can be selected form the first or the second market, simply by dragging and dropping those from the column “Available” to the column “Selected”. 
+Once the artworks have been selected, click “ADD TO COLLECTION”.
+Repeat the same process to add more artworks from a different member.
+Under Collection, the newly created collection is listed. By double clicking it, the space manager is able to see the selected artworks. In order to finalise the promotion, click “Publish” the collection is now promoted and can be visible on the portal page under the section “COLLECTIONS”.
+Collection can be editing or removing.
 
-- For images in `.vuepress/public` directory, please use absolute links (i.e.: starting with `/`) for them.
+**FEATURES:**
+Feature allows space manager to promote different collections on the platform.  
+Therefore, to able to create a feature, collections have to be set in the first place on the space.
+Click on “+” a window appears, fill up the Feature Name, the start and end dates for this feature.
+The newly created feature will be available under “Features”, select the new feature and click “ADD COLLECTIONS”. A window appears, all collection available in the space can be selected and by dragging and dropping the available collection from the column “Available” to the column “Selected”, the space manager manages his feature. Once complete, click “ADD TO FEATURE”.
+Click SAVE. The collection will be then displayed when double clicking the newly created feature under “FEATURES”
+Under Collection, the newly created feature is listed. By double clicking it, the space manager is able to see the selected artworks. In order to finalise the promotion, click “Publish” the feature is now promoted and can be visible on the portal page under the section “FEATURED”.
+Feature can be editing or removing.
 
-:::
+**DROPS:**
 
-The theme contains a custom badge:
+The DROPS section allows the space manager to promote coming events that will happen on his space.
+By clicking “+” a window appears where the name, the description, the start and end dates have to be provided. Click SAVE. The new event will be listed under “DROPS”.
+Select the event and Click “ADD” in order to add artworks from members to be part of this event. A window appears, select the member to whom the artworks should be part of this collection. A list of artworks can be selected form the first or the second market, simply by dragging and dropping those from the column “Available” to the column “Selected”. 
+Once the artworks have been selected, click “ADD TO DROP”.
+Repeat the same process to add more artworks from a different member.
+Under DROPS, the newly created drop is listed. By double clicking it, the space manager is able to see the selected artworks. The drop is now promoted and can be visible on the portal page under the section “DROPS”.
 
-> A dark blue badge text badge at the end of line. <Badge text="Badge text" color="#242378" />
-
-## Page Structure
-
-This page should contain:
-
-- [BreadCrumb](https://theme-hope.vuejs.press/guide/layout/breadcrumb.html)
-- [Title and information](https://theme-hope.vuejs.press/guide/feature/page-info.html)
-- [TOC (Table of Contents)](https://theme-hope.vuejs.press/guide/layout/page.html#header-list)
-- [Meta information including update time and contributors](https://theme-hope.vuejs.press/guide/feature/meta.html)
-- [Comments](https://theme-hope.vuejs.press/guide/feature/comment.html)
-- [Navbar](https://theme-hope.vuejs.press/guide/layout/navbar.html)
-- [Sidebar](https://theme-hope.vuejs.press/guide/layout/sidebar.html)
-- [Footer](https://theme-hope.vuejs.press/guide/layout/footer.html)
-- Back to top button
-
-You can customize them in theme options and page frontmatter.
+Drop can be editing or removing.
