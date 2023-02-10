@@ -1,10 +1,9 @@
 ---
 title: Guides
 index: false
-icon: discover
 category:
   - Guides
----
+--- 
 
 ## Table of content
 

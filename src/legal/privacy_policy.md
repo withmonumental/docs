@@ -1,5 +1,6 @@
 ---
 title: Privacy policy
+order: 2
 # Set writing time
 date: 2022-12-01
 ---
@@ -15,11 +16,11 @@ Please read this privacy notice (“Notice”) carefully to understand our polic
 
 If you do not agree to this Notice or otherwise fail to provide necessary Personal Data to us (We will indicate to you when this is the case, for example, by making this information clear in our registration forms), or fail to provide the relevant consent, you won’t be able to use our Platform.  This Notice may change from time to time. Your continued interaction with us after We make changes is deemed to be acceptance of those changes, so please check the Notice periodically for updates.
 
-# Who are We?
+## Who are We?
 
 Monumental’s Platform (www.XXXXXX ) and Monumental’s mobile, tablet and other applications (“Platform”) are controlled and operated by Monumental adresse XXXXXXXXXXXXXXXXXXXX (“Monumental”, “we, or “our”).
  
-# What information do We collect and why do We collect it?
+## What information do We collect and why do We collect it?
 
 **When you interact with us, we may ask you to provide us with certain information that contains personally identifiable information (Personal Data) that can be used to contact or identify you.**
 
@@ -67,31 +68,16 @@ Note: Should you provide personal data relating to other data subject it is your
 **The following paragraphs describe the various purposes for which We collect and use your Personal Data. Please note that not all of the uses below will be relevant to every individual.***
 
 
-| Why we use your Personal Data       | Our reasons        | Our Legitimate Interests |
-| :---------------------------------- |:-------------------| :-------------------------|
-| **To Create your account and provide the service:**<br>- Enable you to register with the Platform and take advantage of the service<br>- Conclude and execute contracts related to the provision of services made available through the Platform and carry out related activities such as approving your application to the Platform and processing payment.|   - Fulfilling contractual obligations<br> - With your consent (where required)<br> -  Legal obligations<br> -       |  * Improving and developing new products and services<br> * Being more efficient<br> |
-| **Other general purposes (e.g. internal research, analytic, security).**<br In accordance with applicable laws, We use your Personal Data for other general business purposes, such as conducting internal studies.   | est             |   Aligné à droite |
-| **Social networks:**<br> We use your Personal Data when you interact with third party social networking features, such as “Like” functions to engage with you on social networks. You can learn more about how these features work, the profile data that We obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third-party social networks.  | centré          |    Aligné à droite |
-| **Personalization.**<br> With your consent (where required), We use your Personal Data (i) to analyze your preferences and habits, (ii) to anticipate your needs based on our analysis of your profile, (iii) to improve and personalize your experience on our Website; to ensure that content from our Website is optimized for you and for your computer or device; and (iv) to allow you to participate in interactive features, when you choose to do so. 		||
-| **Legal reasons or merger/acquisition.**<br> In the event that Monumental or its assets are acquired by, or merged with, another company including through bankruptcy, We may share your Personal Data with any of our legal successors. We may also disclose your Personal Data to third parties (i) when required by applicable law; (ii) in response to legal proceedings; (iii) in response to a request from a competent law enforcement agency; (iv) to protect our rights, privacy, safety or property, or the public; or (v) to enforce the terms of any agreement or the terms of our Platform.	||
-
-		
-Our legitimate interests	
-
-Protect our assets and staff
-		
-Social networks: We use your Personal Data when you interact with third party social networking features, such as “Like” functions to engage with you on social networks. You can learn more about how these features work, the profile data that We obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third-party social networks.	
-With your consent (where required)
-
-Our legitimate interests	
-Working out which of our products and services may interest you and telling you about them
+| Why we use your Personal Data | Our reasons | Our Legitimate Interests |
+| :-------------- |:-----------------------| :---------------|
+| **To Create your account and provide the service:**<br>- Enable you to register with the Platform and take advantage of the service<br>- Conclude and execute contracts related to the provision of services made available through the Platform and carry out related activities such as approving your application to the Platform and processing payment.|   - Fulfilling contractual obligations<br> - With your consent (where required)<br> -  Legal obligations<br>  |  - Improving and developing new products and services<br> - Being more efficient<br> |
+| **Other general purposes (e.g. internal research, analytic, security).**<br> In accordance with applicable laws, We use your Personal Data for other general business purposes, such as conducting internal studies.   | Our legitimate interests             |   Protect our assets and staff |
+| **Social networks:**<br> We use your Personal Data when you interact with third party social networking features, such as “Like” functions to engage with you on social networks. You can learn more about how these features work, the profile data that We obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third-party social networks.  | - With your consent (where required)<br> - Our legitimate interests<br>	|    Working out which of our products and services may interest you and telling you about them |
+| **Personalization.**<br> With your consent (where required), We use your Personal Data (i) to analyze your preferences and habits, (ii) to anticipate your needs based on our analysis of your profile, (iii) to improve and personalize your experience on our Website; to ensure that content from our Website is optimized for you and for your computer or device; and (iv) to allow you to participate in interactive features, when you choose to do so. 		| - With your consent (where required)<br> - Our legitimate interests<br>	|    Working out which of our products and services may interest you and telling you about them |
+| **Legal reasons or merger/acquisition.**<br> In the event that Monumental or its assets are acquired by, or merged with, another company including through bankruptcy, We may share your Personal Data with any of our legal successors. We may also disclose your Personal Data to third parties (i) when required by applicable law; (ii) in response to legal proceedings; (iii) in response to a request from a competent law enforcement agency; (iv) to protect our rights, privacy, safety or property, or the public; or (v) to enforce the terms of any agreement or the terms of our Platform.	|- To comply with our legal obligations,<br> - Our legitimate interests | Compliance with legal obligations and protect our assets and staff |
 
 
-Personalization. With your consent (where required), We use your Personal Data (i) to analyze your preferences and habits, (ii) to anticipate your needs based on our analysis of your profile, (iii) to improve and personalize your experience on our Website; to ensure that content from our Website is optimized for you and for your computer or device; and (iv) to allow you to participate in interactive features, when you choose to do so. 		
-Legal reasons or merger/acquisition. In the event that Monumental or its assets are acquired by, or merged with, another company including through bankruptcy, We may share your Personal Data with any of our legal successors. We may also disclose your Personal Data to third parties (i) when required by applicable law; (ii) in response to legal proceedings; (iii) in response to a request from a competent law enforcement agency; (iv) to protect our rights, privacy, safety or property, or the public; or (v) to enforce the terms of any agreement or the terms of our Platform.	To comply with our legal obligations, 
-Our legitimate interests	Compliance with legal obligations and protect our assets and staff
-
-# COOKIES/SIMILAR TECHNOLOGIES, LOG FILES AND WEB BEACONS
+## Cookies/similar technologies, log files and web beacons
 See – Cookie Notice 
  
 ## How do We store/disclose/transfer your information ? 
@@ -128,5 +114,3 @@ Please note that any identification information provided to Us will only be proc
 
 These rights can be exercised by sending Us an e-mail to XXXXXXXXXXXXXXXXXX , attaching a copy of your ID or equivalent details (only where requested by Us and permitted by law). If the request is submitted by a person other than you, without providing evidence that the request is legitimately made on your behalf, the request will be rejected.
 Please note that any identification information provided to Us will only be processed in accordance with, and to the extent permitted by applicable laws.
-
-- ...

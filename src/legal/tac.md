@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-order: 5
+order: 1
 # Set writing time
 date: 2022-12-01
 ---

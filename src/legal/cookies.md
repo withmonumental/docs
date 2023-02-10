@@ -1,6 +1,7 @@
 ---
 title: Cookie notice
 date: 2022-12-01
+order: 3
 ---
 
 This cookie notice applies to the Monumental web site and applications (“Monumental Plateform”). 

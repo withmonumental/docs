@@ -18,4 +18,4 @@ footer: Monumental | Copyright © 2023
 
 - [Commission and fees](commissionAndFees.md)
 
-- [Register](register.md)
+- [Join Monumental](register.md)

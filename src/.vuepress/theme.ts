@@ -118,27 +118,49 @@ export default hopeTheme({
             },
             stylize: [
                 {
-                    matcher: "Recommended",
+                    matcher: "active",
                     replacer: ({tag}) => {
                         if (tag === "em")
                             return {
                                 tag: "Badge",
-                                attrs: {type: "tip"},
-                                content: "active",
+                                attrs: {type: "tip", color:"red"},
+                                content: "Active",
                             };
                     },
                 },
                 {
-                    matcher: "Recommended",
+                    matcher: "expired",
                     replacer: ({tag}) => {
                         if (tag === "em")
                             return {
                                 tag: "Badge",
-                                attrs: {type: "tip"},
-                                content: "expired",
+                                    attrs: {type: "tip", color:"blue"},
+                                content: "Expired",
                             };
                     },
                 },
+                {
+                    matcher: "inactive",
+                    replacer: ({tag}) => {
+                        if (tag === "em")
+                            return {
+                                tag: "Badge",
+                                attrs: {type: "tip", color:"grey"},
+                                content: "Inactive",
+                            };
+                    },
+                },
+                {
+                    matcher: "pending_registered",
+                    replacer: ({tag}) => {
+                        if (tag === "em")
+                            return {
+                                tag: "Badge",
+                                attrs: {type: "tip", color:"green"},
+                                content: "Pending Registered",
+                            };
+                    },
+                }
             ],
             sub: true,
             sup: true,

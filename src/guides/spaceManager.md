@@ -7,7 +7,7 @@ pageInfo: false
 # This control sidebar order
 order: 3
 # Set author
-author: Ms.Hope
+author: Monumental Team     
 # Set writing time
 date: 2020-01-01
 # A page can have multiple categories
@@ -30,7 +30,11 @@ As a space manager, it is your responsibility to oversee and elevate the artists
 
 To access those functionalities, click on :
 
-> Your profile icon -> personal space -> SWITCH PRIVATE
+
+```mermaid
+flowchart LR
+    id1(Your profile icon)-->id2(personal space)-->id3(SWITCH PRIVATE)
+```
 
 This guide is intending to explain activities of a space manager and how to carry out them on the platform.
 
@@ -51,16 +55,14 @@ Under the Space Management section, a space manager can decide if an user become
 To do so, the space manager will need to add manually this user :
 
 First select the right space where the user will be defined as a member under “Current Space” by using the space list.
-Once the space has been selected, under section “ Space Members”, click on “+” a window appears :
+Once the space has been selected, under section “ Space Members”, click on the add button (“+”) a window appears :
 
-![Add a member](/spaceManager/space_manager_new_member.png)
+**Fill up the form as follows :**
 
-Fill up the form as follow :
-
-1. Select the member type from the available option
-2  Enter the user ETH public Address under the field “Member address”
-3. Enter commission and fees to be apply
-4. Click SAVE. 
+> 1. Select the member type from the available option
+> 2. Enter the user ETH public Address under the field “Member address”
+> 3. Enter commission and fees to be apply
+> 4. Click SAVE. 
 
 The user is then added as a member to the space.
 
@@ -68,7 +70,8 @@ The user is then added as a member to the space.
 The space manager can at anytime by selecting the user within the Space Members section, editing (commission or fees review) or removing the user.
 ::: 
 
-Please refer to ***Reference vers les rôles*** to get more information about the member type and its impact on subscription contract.
+
+Please refer to [Space Members](/started/space.md#space-members) to get more information about the **member type** and its impact on subscription contract.
 
 
 ## Manage space contracts
@@ -78,7 +81,7 @@ A space contract is a business relationship between a user and a space.
 
 - Member and Guest contracts tabs : 
     - list all contracts that have been generated for members and guest. 
-      The different contract status will be shown in order to understand if a contract is still _active_ , _expired_,_inactive_ or _pending registered_.
+      The different contract status will be shown in order to understand if a contract is still _active_  _expired_ _inactive_ or _pending_registered_
     - create a new space contract
     - edit an existing space contract
     - delete an existing space contract

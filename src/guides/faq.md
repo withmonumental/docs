@@ -21,8 +21,8 @@ category:
 sticky: true
 # this page will appear in starred articles
 star: true
-copyright: false
-footer: Monumental | Copyright © 2023
+#copyright: false
+#footer: Monumental | Copyright © 2023
 ---
 
 ## How can I buy artworks ?

@@ -22,7 +22,7 @@ sticky: true
 # this page will appear in starred articles
 star: true
 # You can customize footer content
-footer: Footer content for test
+#footer: Footer content for test
 # You can customize copyright content
 copyright: No Copyright
 ---

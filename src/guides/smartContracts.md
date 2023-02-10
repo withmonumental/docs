@@ -22,7 +22,7 @@ sticky: true
 # this page will appear in starred articles
 star: true
 # You can customize footer content
-footer: Footer content for test
+#footer: Footer content for test
 # You can customize copyright content
 copyright: No Copyright
 ---
@@ -33,24 +33,6 @@ Content before `more` comment is regarded as page excerpt.
 
 ## Page Information
 
-You can set page information in Markdown’s Frontmatter.
-
-- The author is Ms.Hope.
-- The writing date is January 1, 2020
-- Category is "Guide"
-- Tags are "Page Config" and "Guide"
-
-## Page Content
-
-You are free to write your Markdown here.
-
-::: tip Assets
-
-- You can place images besides your Markdown files, but you should use **relative links** (i.e.: starting with `./`) for them.
-
-- For images in `.vuepress/public` directory, please use absolute links (i.e.: starting with `/`) for them.
-
-:::
 
 The theme contains a custom badge:
 
