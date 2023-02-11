@@ -42,7 +42,11 @@ The Platform is intended solely for adults (over 18) and for adult use. We do no
 
 **Platform/communication usage information.**
 
->As you navigate through and interact with our Platform, We use automatic data collection technologies to collect certain information about your actions. This includes information such as which links you click on, which pages or content you view and for how long, and other similar information and statistics about your interactions, such as content response times, download errors and length of visits to certain pages. This information is captured using automated technologies such as cookies (browser cookies, flash cookies) and web beacons, and is also collected through the use of third-party tracking services. You have the right to object to the use of such technologies, for further details please see Section 3.
+>As you navigate through and interact with our Platform, We use automatic data collection technologies to collect certain information about your actions. This includes information such as which links you click on, which pages or content you view and for how long, and other similar information and statistics about your interactions, such as content response times, download errors and length of visits to certain pages. This information is captured using automated technologies such as cookies (browser cookies, flash cookies) and web beacons, and is also collected through the use of third-party tracking services.
+
+::: info
+You have the right to object to the use of such technologies, for further details please see [Your rights](/legal/privacy_policy.md#your-rights)
+:::
 
 **Consumer feedback.**
 > This includes information that you voluntarily share with Us about your experience of using our products and services.
@@ -82,12 +86,25 @@ Note: Should you provide personal data relating to other data subject it is your
 See [Cookie Notice](/legal/cookies.md) 
  
 ## How do We store/disclose/transfer your information ? 
-We use a variety of reasonable measures (described below) to keep your Personal Data confidential and secure. Please note, however, that these protections do not apply to information you choose to share in public areas such as social networks.
-People who can access your Personal Data. Your Personal Data will be processed by our authorized staff and authorized processor, on a need-to-know basis, depending on the specific purposes for which your Personal Data have been collected.
-Measures taken in operating environments. We store your Personal Data in operating environments that use reasonable security measures to prevent unauthorized access. We follow reasonable standards to protect Personal Data. The transmission of information via the Internet is, unfortunately, not completely secure and although We will do our best to protect your personal information, We cannot guarantee the security of the data during transmission through our Website. 
-Measures We expect you to take. It is important that you also play a role in keeping your Personal Data safe and secure. When signing up for an online account, please be sure to choose an account password that would be difficult for others to guess and never reveal your password to anyone else. You are responsible for keeping this password confidential and for any use of your account. If you use a shared or public computer, never choose to have your login ID/email address or password remembered and make sure to log out of your account every time you leave the computer. You should also make use of any privacy settings or controls We may provide you in our Website.
-Transfer of your Personal Data. The storage as well as the processing of your Personal Data as described above may require that your Personal Data are ultimately transferred/transmitted to, and/or stored at, a destination outside of your country of residence, notably in Europe. Where permitted by law, by accepting the terms of this Notice, you agree to such transferring, transmission, storing and/or processing. You also agree that such activities may take place to or in countries offering a lower level of protection than your country of residence.
-We will transfer your data only: (i) if it is necessary for the performance of a contract entered with you, (ii) in the presence of an adequacy decision of the European Commission which has verified that such third country ensures an adequate level of protection of your rights, (iii)  in the presence of adequate safeguard as requested by  the Data protection Law and regulation, (iv) with your explicit consent. 
+We use a variety of reasonable measures (described below) to keep your Personal Data confidential and secure. Please note, however, that these protections do not apply to information you choose to share in public areas such as social networks.<br>
+**People who can access your Personal Data.**<br>
+Your Personal Data will be processed by our authorized staff and authorized processor, on a need-to-know basis, depending on the specific purposes for which your Personal Data have been collected.
+
+**Measures taken in operating environments.**<br>
+We store your Personal Data in operating environments that use reasonable security measures to prevent unauthorized access. We follow reasonable standards to protect Personal Data. The transmission of information via the Internet is, unfortunately, not completely secure and although We will do our best to protect your personal information, We cannot guarantee the security of the data during transmission through our Website. 
+
+**Measures We expect you to take.**<br>
+It is important that you also play a role in keeping your Personal Data safe and secure. When signing up for an online account, please be sure to choose an account password that would be difficult for others to guess and never reveal your password to anyone else. You are responsible for keeping this password confidential and for any use of your account. If you use a shared or public computer, never choose to have your login ID/email address or password remembered and make sure to log out of your account every time you leave the computer. You should also make use of any privacy settings or controls We may provide you in our Website.
+
+**Transfer of your Personal Data.**<br>
+The storage as well as the processing of your Personal Data as described above may require that your Personal Data are ultimately transferred/transmitted to, and/or stored at, a destination outside of your country of residence, notably in Europe. Where permitted by law, by accepting the terms of this Notice, you agree to such transferring, transmission, storing and/or processing. You also agree that such activities may take place to or in countries offering a lower level of protection than your country of residence.<br>
+
+We will transfer your data only: <br>
+- (i) if it is necessary for the performance of a contract entered with you, 
+- (ii) in the presence of an adequacy decision of the European Commission which has verified that such third country ensures an adequate level of protection of your rights, 
+- (iii)  in the presence of adequate safeguard as requested by  the Data protection Law and regulation, 
+- (iv) with your explicit consent. 
+
 We require all third parties that we work with to treat your personal information as confidential and to fully comply with Data protection and consumer legislation.
 
 ## How long do We store your personal data 

@@ -50,9 +50,9 @@ Each Agreement shall be governed by the provisions of the national law of the Se
 
 ## Contents published by the User and/or third parties
 
-The user represents and warrants, in relation to any content relating to the Platform, the Agreements and/or NFTs, wherever posted by him/her/it on the Internet, that such content does not cause prejudice to the rights, including intellectual property rights, of any third party and is not contrary to Monumental Policies. 
+The user represents and warrants, in relation to any content relating to the Platform, the Agreements and/or NFTs, wherever posted by him/her/it on the Internet, that such content does not cause prejudice to the rights, including intellectual property rights, of any third party and is not contrary to ==Monumental Policies==. 
 
-Should the user believe that any content posted on the Platform by other persons or entities contains a defamatory statement or that any of his intellectual property rights have been infringed by any information on the Platform, user shall contact Monumental at contact@monumental.app, or through messages sent to Monumental’s official social media accounts, as used from time to time (e.g. LinkedIn, Twitter, Instagram, Discord).
+Should the user believe that any content posted on the Platform by other persons or entities contains a defamatory statement or that any of his intellectual property rights have been infringed by any information on the Platform, user shall contact Monumental at **contact@monumental.app**, or through messages sent to Monumental’s official social media accounts, as used from time to time (e.g. LinkedIn, Twitter, Instagram, Discord).
 
 ## Prices and invoicing
 
