@@ -18,7 +18,8 @@ If you do not agree to this Notice or otherwise fail to provide necessary Person
 
 ## Who are We?
 
-Monumental’s Platform (https://monumental.app) and Monumental’s mobile, tablet and other applications (**Platform**) are controlled and operated by Monumental adresse XXXXXXXXXXXXXXXXXXXX (**Monumental**, **we**, or **our**).
+Monumental’s Platform (https://monumental.app) and Monumental’s mobile, tablet and other applications (**Platform**) are controlled and operated by ==Monumental SAS, 153 route de la Cambuse, 74500 Vinzier (FRANCE)==
+ (**Monumental**, **we**, or **our**).
  
 ## What information do We collect and why do We collect it?
 

@@ -52,7 +52,7 @@ Each Agreement shall be governed by the provisions of the national law of the Se
 
 The user represents and warrants, in relation to any content relating to the Platform, the Agreements and/or NFTs, wherever posted by him/her/it on the Internet, that such content does not cause prejudice to the rights, including intellectual property rights, of any third party and is not contrary to Monumental Policies. 
 
-Should the user believe that any content posted on the Platform by other persons or entities contains a defamatory statement or that any of his intellectual property rights have been infringed by any information on the Platform, user shall contact Monumental help desk at www……………… .
+Should the user believe that any content posted on the Platform by other persons or entities contains a defamatory statement or that any of his intellectual property rights have been infringed by any information on the Platform, user shall contact Monumental at contact@monumental.app, or through messages sent to Monumental’s official social media accounts, as used from time to time (e.g. LinkedIn, Twitter, Instagram, Discord).
 
 ## Prices and invoicing
 
@@ -64,7 +64,7 @@ In relation to NFTs sold by the Sellers, the invoices shall be issued – in ful
 The prices of NFTS offered for sale by the Seller are established independently and indicated on the Platform by the Sellers themselves and already include the fees which is retained by Monumental as a percentage of each payment made: 
 
  
-Each include a sum equal to XX (artist’s royalty) which shall be automatically credited, by means of the smart contract on which the Agreement is based, to the artist whose artwork is embedded in the NFT sold.
+Each payment includes ==an artist’s royalty, defined by the artist at creation time of his digital certificate,== which shall be automatically credited, by means of the smart contract on which the Agreement is based, to the artist whose artwork is embedded in the NFT sold.
 
 ## Payments and security of payments
 
@@ -103,7 +103,7 @@ Monumental undertakes no liability for trademarks and other distinctive signs th
 The personal data of the user relating to the registration and use of the Platform are processed by Monumental as data controller, in accordance with the applicable data protection legislation. 
 The personal data of the users communicated or otherwise acquired by the Sellers are processed by the latter in their capacity as independent data controllers on the basis of the information that they separately provide to the user.
 
-For further information on the processing of personal data by Monumental, please refer to the Privacy Notice and Cookie Notice. 
+For further information on the processing of personal data by Monumental, please refer to the [Privacy Policy](/legal/privacy_policy.md) and [Cookie Notice](/legal/cookies.md). 
 
 ## Language
 
