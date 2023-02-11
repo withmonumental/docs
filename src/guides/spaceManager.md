@@ -21,10 +21,8 @@ tag:
 sticky: true
 # this page will appear in starred articles
 star: true
-# You can customize footer content
-#footer: Footer content for test
-# You can customize copyright content
-#copyright: No Copyright
+copyright: false
+footer: Monumental | Copyright © 2023
 ---
 As a space manager, it is your responsibility to oversee and elevate the artists within your designated space. From your personal space, you have the ability to conduct a variety of tasks, including inviting individuals to join, promoting artists, making decisions on proposals, and efficiently managing collections, features, and drops.
 
@@ -111,10 +109,10 @@ By selecting one proposal, the space manager will be able to :
 If the space manager accepts the artwork, automatically a publishing contract will be generated with a specific valid period under the section **Guest Contract**. 
 This contract allows the artist to sale his artwork during a valid period on this space.
 
-### Handle digital promotion
+## Handle digital promotion
 Under the **digital promotion section**, the space manager is able to promote artworks published on his space. 
 
-**COLLECTIONS:**
+### COLLECTIONS
 He is in title to create a collection, gathering different artworks from artist on his space.
 Ensure the right space is primarily selected under the section” Current Space”.
 Click on “+” a window appears, 
@@ -143,7 +141,7 @@ To finalise the promotion, click the **Publish** button.
 Collection can be editing or removing.
 :::
 
-**FEATURES:**
+### FEATURES
 Feature allows space manager to promote different collections on the platform.
  
 ::: warning
@@ -173,6 +171,6 @@ To finalise the promotion, click the **Publish** button.
 Feature can be editing or removing.
 :::
 
-**DROPS:**
+### DROPS
 
-To be review
+Coming soon

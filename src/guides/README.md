@@ -3,14 +3,15 @@ title: Guides
 index: false
 category:
   - Guides
+copyright: false
+footer: Monumental | Copyright © 2023
 --- 
 
-## Table of content
+- [Space Manager](spaceManager.md)
 
-- [Markdown Enhance](markdown.md)
+- [Smart Contracts](smartContracts.md)
 
-- [Page Config](src/guides/faq.md)
+- [Artist](artist.md)
 
-- [Function Disable](disable.md)
+- [Frequently Asked Questions](faq.md)
 
-- [Encryption Demo](encrypt.md)

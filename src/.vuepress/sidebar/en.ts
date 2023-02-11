@@ -17,11 +17,11 @@ export const enSidebar = sidebar({
       prefix: "legal/",
       children: "structure",
     },
-    {
-      text: "Original",
-      prefix: "original/",
-      children: "structure",
-    },
-    "slides",
+    //{
+    //  text: "Original",
+    //  prefix: "original/",
+      //  children: "structure",
+    //},
+    //"slides",
   ],
 });

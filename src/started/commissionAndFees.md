@@ -25,9 +25,7 @@ footer: Monumental | Copyright © 2023
 ---
 
 # Monumental Space
-Monumental prend des frais de plateforme s'élevant à  5 % sur le premier marché et de 2.75% sur le second marché. 
-De plus une commission est prélevée sur les ventes qui est de 10 % (valeur par défaut modifiable) sur le premier marché et de 0,25 % (valeur constante) sur le second marché.
-
+The statement expresses that Monumental places a strong emphasis on transparency in its operations by clearly indicating the fees and commissions it charges. The amount of fees and commissions that Monumental applies to an artwork sold depends on the specific type of space in which the artwork is being sold. By presenting the up-to-date rates to users, Monumental enables them to make informed decisions about the charges they will incur when selling their artwork on the platform, ultimately giving them more control over their selling process. It is noteworthy that the rates displayed accurately reflect the current fees and commissions that users will be subject to.
 
 ## Classic Space
 

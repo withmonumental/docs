@@ -24,32 +24,49 @@ copyright: false
 footer: Monumental | Copyright © 2023
 ---
 
-Monumental is an NFT platform designed to empower art spaces such as galleries, artist collectives, and charities. The platform allows these spaces to curate their own selection of artists and artworks and provides them with the tools to sell and promote the work of their artists in the web 3.0 world. Monumental believes in the importance of community and diversity and is dedicated to giving art spaces the power to represent and sell their artists' works
+Welcome to Monumental, a cutting-edge NFT platform that empowers spaces like art galleries, artist collectives, and charities to represent and sell the work of their artists.
+<br>
+Our platform provides participants in the web 3.0 era with the tools they need to curate their own selection of artists and artworks, giving them the ability to promote and sell these artworks online.
 
 ## What we believed
 At Monumental, we believe in the power of the community and diversity. This is why we have created our platform to facilitate sales between galleries, artist collectives, and charities, allowing them to promote their individual talents and unique art styles.
 
 ## Our services
 
-- Digital Marketing & Branding Services
-- Digital & Physical Arts/NFT Platforms
-- Artists & Arts Event Promotion
+- Creating communities
+- Digital arts and certificates
+- Artists & Arts Promotion
 
-## Revolutionizing art spaces
-With our services, we are revolutionizing the way art spaces function. Monumental gives these spaces the power to promote their artists and artworks in the digital age, facilitating sales through innovative technologies and platforms.
+## Expanding art spaces
+With our services, we are expanding the way art spaces function.
+<br><br>
+Monumental gives these spaces the power to promote their artists and artworks in the digital age.
+<br><br>
+Cutting-edge technologies and partnerships with leading professionals in the art world simplify the sales process, opening up new opportunities of success for artists.
 
 ## Benefits for art spaces
 
-Our platform offers many benefits for art spaces. By promoting their artists on our platform, they have access to a larger audience and can facilitate sales more easily than ever before. Additionally, our services provide assistance in digital branding and marketing.
+Our platform offers many benefits for art spaces. 
 
-## Monumental vs other platforms
+- Tools to promote artists 
+- Facilitate sales more easily than ever before
+- Virtual Reality showroom
+- Generate income for all partners  
 
-Monumental is different than other art platforms out there in that it gives users complete control over what is sold and how it is sold. Our goal is to empower our users with customizable options so that galleries, artist collectives, and charities can create unique experiences for their customers.
+## Monumental is different
+
+- It gives access to high-quality art through curated spaces.
+- It gives spaces complete control over the artist curation.
+- It is a bridge between the art industry and the decentralized world.
 
 ## Connecting Buyers & Sellers
 
-Our platform is designed to connect buyers with sellers from all over the world. Whether it’s a gallery or artist collective, buyers can explore a variety of different art styles without having to travel far. Our mission is to bring together buyers and sellers from all corners of the globe.
+Our platform is designed to connect buyers with sellers from all over the world. 
+<br>
+From space to space, buyers can explore a variety of different art styles without having to travel far. 
+<br>
+Our mission is to bring together buyers and sellers from all corners of the globe
+<br>
 
-::: tip 
-Our platform connects buyers and sellers across different genres and art styles.
-:::
+
+> Our platform connects buyers and sellers across different genres and art styles.

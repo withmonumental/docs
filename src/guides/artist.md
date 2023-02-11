@@ -5,7 +5,7 @@ pageInfo: false
 # This is the icon of the page
 # icon: page
 # This control sidebar order
-order: 4
+order: 1
 # Set author
 author: Ms.Hope
 # Set writing time
@@ -21,10 +21,8 @@ tag:
 sticky: true
 # this page will appear in starred articles
 star: true
-# You can customize footer content
-#footer: Footer content for test
-# You can customize copyright content
-copyright: No Copyright
+copyright: false
+footer: Monumental | Copyright © 2023
 ---
 
 As an artist, you have the possibility to create digital artwork and to receive a digital certificate in order to ensure your ownership over your art. You will be then able to sell your artworks on the Monumental platform and gain royalties from any future sales of your work.
@@ -32,20 +30,31 @@ This guide is intending to explain activities of an artist and how to carry out 
 
 ## Becoming an artist on Monumental
 To be an artist on the Monumental platform, you have been either invited by a Space Manager or any other platform participant with the authority to provide invitation or you submitted an application online and it has been approved.
-•	Apply as an artist/collector
+
+- [Apply as an artist](https://monumental.app/apply/artist)
+
+
+## Overview
+
+The process of bringing an artwork to a sale state typically involves several key steps. These include creating or selecting an existing artwork, subscribing to a space, preparing the artwork for sale, publishing it, and finally starting an auction, either as a Timed Auction or Fixed Price sale.
+
+![Artist process](/artist_collector_process.png)
 
 ## Creating NFT on Monumental
 Creating NFT on Monumental it is as easy as sending a mail. This functionality will able you to create a NFT and its associated digital certificate using the ETH (Ethereum) blockchain technology. 
 To access this functionality click on :
 Your Profile icon -> Create 
 By creating a NFT, network fees will be applied (it may vary), you will need therefore to have enough funds on your digital wallet.
-Note : if you do not find the option “Create” under your profile icon it is likely that you are not defined as an artist on the platform. If you believe that you should be considered as an artist, please reach out your space manager.
+
+::: info Note
+If you do not find the option “Create” under your profile icon it is likely that you are not defined as an artist on the platform. If you believe that you should be considered as an artist, please reach out your space manager.
+:::
 
 Click on Create to create your new artwork
 A page appears offering you the options either to create a Standard Edition or a Community Edition. 
 For more information about Standard and Community edition please refer to section **Monumental Smart Contract**
 
-Creating a Standard Edition:
+**Creating a Standard Edition:**
 1.	Upload your artwork using drag or drop or select file under the space reserved for this. 
 2.	Fill up the form as follow:
 -	Enter a Collection name, by default **no collection** – you can create a collection name or chose an existing one where your artwork will be associated to. 

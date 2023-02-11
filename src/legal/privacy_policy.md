@@ -6,19 +6,19 @@ date: 2022-12-01
 ---
 # Monumental Privacy Policy
 
-The Monumental Platform (“Platform”) is deploying smart contracts on the public blockchain Ethereum. It enables artists and collectors to create, buy, transfer and trade unique digital art. 
+The Monumental Platform (**Platform**) is deploying smart contracts on the public blockchain Ethereum. It enables artists and collectors to create, buy, transfer and trade unique digital art. 
 
 We do not control the block chain where the smart contracts are stored. If you use the Platform, you are consenting to allow your information to be cryptographically transmitted and stored on that blockchain, and any deletion or modification of that information (to the extent possible on a blockchain) is governed by the terms of the relevant smart contract.
 
 Respecting the privacy rights of our users is very important to Us. We are committed to complying with the General Data Protection Regulation 2016/679. This privacy notice explains the types of personal data we may collect about you when you interact with Us on our platform, as well as how We protect and use that information. It also explains how We’ll store and handle that data and keep it safe.
 
-Please read this privacy notice (“Notice”) carefully to understand our policies and practices regarding your personal data and how We will treat it.
+Please read this privacy notice (**Notice**) carefully to understand our policies and practices regarding your personal data and how We will treat it.
 
 If you do not agree to this Notice or otherwise fail to provide necessary Personal Data to us (We will indicate to you when this is the case, for example, by making this information clear in our registration forms), or fail to provide the relevant consent, you won’t be able to use our Platform.  This Notice may change from time to time. Your continued interaction with us after We make changes is deemed to be acceptance of those changes, so please check the Notice periodically for updates.
 
 ## Who are We?
 
-Monumental’s Platform (www.XXXXXX ) and Monumental’s mobile, tablet and other applications (“Platform”) are controlled and operated by Monumental adresse XXXXXXXXXXXXXXXXXXXX (“Monumental”, “we, or “our”).
+Monumental’s Platform (https://monumental.app) and Monumental’s mobile, tablet and other applications (**Platform**) are controlled and operated by Monumental adresse XXXXXXXXXXXXXXXXXXXX (**Monumental**, **we**, or **our**).
  
 ## What information do We collect and why do We collect it?
 
@@ -68,17 +68,17 @@ Note: Should you provide personal data relating to other data subject it is your
 **The following paragraphs describe the various purposes for which We collect and use your Personal Data. Please note that not all of the uses below will be relevant to every individual.***
 
 
-| Why we use your Personal Data | Our reasons | Our Legitimate Interests |
+| Why we use your Personal Data | Our reasons  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Our Legitimate Interests &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-------------- |:-----------------------| :---------------|
-| **To Create your account and provide the service:**<br>- Enable you to register with the Platform and take advantage of the service<br>- Conclude and execute contracts related to the provision of services made available through the Platform and carry out related activities such as approving your application to the Platform and processing payment.|   - Fulfilling contractual obligations<br> - With your consent (where required)<br> -  Legal obligations<br>  |  - Improving and developing new products and services<br> - Being more efficient<br> |
-| **Other general purposes (e.g. internal research, analytic, security).**<br> In accordance with applicable laws, We use your Personal Data for other general business purposes, such as conducting internal studies.   | Our legitimate interests             |   Protect our assets and staff |
-| **Social networks:**<br> We use your Personal Data when you interact with third party social networking features, such as “Like” functions to engage with you on social networks. You can learn more about how these features work, the profile data that We obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third-party social networks.  | - With your consent (where required)<br> - Our legitimate interests<br>	|    Working out which of our products and services may interest you and telling you about them |
-| **Personalization.**<br> With your consent (where required), We use your Personal Data (i) to analyze your preferences and habits, (ii) to anticipate your needs based on our analysis of your profile, (iii) to improve and personalize your experience on our Website; to ensure that content from our Website is optimized for you and for your computer or device; and (iv) to allow you to participate in interactive features, when you choose to do so. 		| - With your consent (where required)<br> - Our legitimate interests<br>	|    Working out which of our products and services may interest you and telling you about them |
-| **Legal reasons or merger/acquisition.**<br> In the event that Monumental or its assets are acquired by, or merged with, another company including through bankruptcy, We may share your Personal Data with any of our legal successors. We may also disclose your Personal Data to third parties (i) when required by applicable law; (ii) in response to legal proceedings; (iii) in response to a request from a competent law enforcement agency; (iv) to protect our rights, privacy, safety or property, or the public; or (v) to enforce the terms of any agreement or the terms of our Platform.	|- To comply with our legal obligations,<br> - Our legitimate interests | Compliance with legal obligations and protect our assets and staff |
+| **To Create your account and provide the service:**<br>- Enable you to register with the Platform and take advantage of the service<br>- Conclude and execute contracts related to the provision of services made available through the Platform and carry out related activities such as approving your application to the Platform and processing payment.|   - Fulfilling contractual obligations<br><br> - With your consent (where required)<br><br> -  Legal obligations |  - Improving and developing new products and services<br><br> - Being more efficient |
+| **Other general purposes (e.g. internal research, analytic, security).**<br> In accordance with applicable laws, We use your Personal Data for other general business purposes, such as conducting internal studies.   | Our legitimate interests          |   Protect our assets and staff |
+| **Social networks:**<br> We use your Personal Data when you interact with third party social networking features, such as **Like** functions to engage with you on social networks. You can learn more about how these features work, the profile data that We obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third-party social networks.  | - With your consent (where required)<br><br> - Our legitimate interests	|    Working out which of our products and services may interest you and telling you about them |
+| **Personalization.**<br> With your consent (where required), We use your Personal Data (i) to analyze your preferences and habits, (ii) to anticipate your needs based on our analysis of your profile, (iii) to improve and personalize your experience on our Website; to ensure that content from our Website is optimized for you and for your computer or device; and (iv) to allow you to participate in interactive features, when you choose to do so. 		| - With your consent (where required)<br><br> - Our legitimate interests	|    Working out which of our products and services may interest you and telling you about them |
+| **Legal reasons or merger/acquisition.**<br> In the event that Monumental or its assets are acquired by, or merged with, another company including through bankruptcy, We may share your Personal Data with any of our legal successors. We may also disclose your Personal Data to third parties (i) when required by applicable law; (ii) in response to legal proceedings; (iii) in response to a request from a competent law enforcement agency; (iv) to protect our rights, privacy, safety or property, or the public; or (v) to enforce the terms of any agreement or the terms of our Platform.	|- To comply with our legal obligations,<br><br> - Our legitimate interests | Compliance with legal obligations and protect our assets and staff |
 
 
 ## Cookies/similar technologies, log files and web beacons
-See – Cookie Notice 
+See [Cookie Notice](/legal/cookies.md) 
  
 ## How do We store/disclose/transfer your information ? 
 We use a variety of reasonable measures (described below) to keep your Personal Data confidential and secure. Please note, however, that these protections do not apply to information you choose to share in public areas such as social networks.
@@ -101,9 +101,9 @@ Personal Data stored for profiling shall be stored for 12 month and Other Person
 
 You have a right to request access to or rectification of your personal data which we hold about you. You also have a right to erase your personal data, to restrict the processing of your personal data and the right to receive your personal data that you have provided to us and to transit such personal data to another data controller.
  
-To make a request to us, please contact us at WWW 
+To make a request to us, please contact us at ==**contact@monumental.app**== 
  
-If you are concerned about our processing of your personal data, you have a right to make a complaint to the CNIL at www. LiNK TO CNIL website. 
+If you are concerned about our processing of your personal data, you have a right to make a complaint to the [CNIL](https://www.cnil.fr/). 
  
 If you think any information, we have about you is incorrect or incomplete, please write to us or email us and we will correct or update any information as soon as possible.
 
@@ -112,5 +112,5 @@ Please note that any identification information provided to Us will only be proc
 
 # How to contact us?
 
-These rights can be exercised by sending Us an e-mail to XXXXXXXXXXXXXXXXXX , attaching a copy of your ID or equivalent details (only where requested by Us and permitted by law). If the request is submitted by a person other than you, without providing evidence that the request is legitimately made on your behalf, the request will be rejected.
+These rights can be exercised by sending Us an e-mail to contact@monumental.app , attaching a copy of your ID or equivalent details (only where requested by Us and permitted by law). If the request is ==being== submitted by a person other than you, without providing evidence that the request is legitimately made on your behalf, the request will be rejected.
 Please note that any identification information provided to Us will only be processed in accordance with, and to the extent permitted by applicable laws.

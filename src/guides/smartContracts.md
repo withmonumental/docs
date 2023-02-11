@@ -1,13 +1,13 @@
 ---
 # This is the title of the article
-title: Smart Contracts
+title: Edition types
 pageInfo: false
 # This is the icon of the page
 # icon: page
 # This control sidebar order
 order: 4
 # Set author
-author: Ms.Hope
+# author: Monumental Team
 # Set writing time
 date: 2020-01-01
 # A page can have multiple categories
@@ -21,35 +21,71 @@ tag:
 sticky: true
 # this page will appear in starred articles
 star: true
-# You can customize footer content
-#footer: Footer content for test
-# You can customize copyright content
-copyright: No Copyright
+copyright: false
+footer: Monumental | Copyright © 2023
 ---
 
-Content before `more` comment is regarded as page excerpt.
+Currently, Monumental only generates digital certificates based on the ERC721 standard.
 
-<!-- more -->
+When creating a digital certificate, Monumental offers two distinct choices:
+- Either the standard edition,
+- Or the community edition.
 
-## Page Information
+The code used for both types of edition is available on Etherscan.
+
+## Standard edition
+
+A standard edition allows you to create a limited number of tokens per artwork.
+This implies that the owner has to mint each edition before to proceed a sale.
+
+The following sections describe what kind of information has to be filled by the artist.
+### Artwork information
 
 
-The theme contains a custom badge:
+| Field name | Description |
+| ---------- | ----------- |
+| Collection | Add artwork to a collection (optional)|
+| Edition name | Base name used for all editions|
+| Description | Artwork description. Support markdown|
 
-> A dark blue badge text badge at the end of line. <Badge text="Badge text" color="#242378" />
 
-## Page Structure
+### Artwork settings
 
-This page should contain:
+| Field name | Description |
+| ---------- | ----------- |
+| Max supply | Max number of editions that could be mint|
+| Royalties | Artist royalties|
+| Medium | Category of the artwork|
+| Keywords | List of keywords (optional)|
 
-- [BreadCrumb](https://theme-hope.vuejs.press/guide/layout/breadcrumb.html)
-- [Title and information](https://theme-hope.vuejs.press/guide/feature/page-info.html)
-- [TOC (Table of Contents)](https://theme-hope.vuejs.press/guide/layout/page.html#header-list)
-- [Meta information including update time and contributors](https://theme-hope.vuejs.press/guide/feature/meta.html)
-- [Comments](https://theme-hope.vuejs.press/guide/feature/comment.html)
-- [Navbar](https://theme-hope.vuejs.press/guide/layout/navbar.html)
-- [Sidebar](https://theme-hope.vuejs.press/guide/layout/sidebar.html)
-- [Footer](https://theme-hope.vuejs.press/guide/layout/footer.html)
-- Back to top button
 
-You can customize them in theme options and page frontmatter.
+### Attributes settings
+
+| Field name | Description |
+| ---------- | ----------- |
+| Trait Type | Can be see as the attribute title|
+| Display type | Available display<br> - text<br>- number<br>- date<br>- boost %<br>- boost number|
+| Value | user defined expression|
+
+
+## Community edition
+
+the community edition has the same sections as the standard edition.
+Below, the extra settings needed :
+
+### Community settings
+
+
+| Field name | Description |
+| ---------- | ----------- |
+| Space | Space in which the mint will be done.<br>Defined by artist.|
+| Basis price | Minimum price for a mint|
+| Presale | Community edition can have a presale mode or a public sale mode. <br>See below if presale.|
+| Nft per address limit | **Presale option.**<br>Max number of NFT that could be mint per address |
+| Max mint amount | **Presale option.**<br>Max number of mint that could be performed at the same time|
+| Whitelisted address | **Presale option.**<br>.List of whitelisted users authorized to mint before public sale|
+
+### First and second market
+
+If an artist mints an edition for their own account, it will be available on the first market and all associated fees and commissions will be applied. <br>
+If the minting is done through an Ethereum address different from the artist's, the edition will be on the second market, and the community edition smart contract will allow the owner to operate with commissions and fees from the second market via an internal transfer.
