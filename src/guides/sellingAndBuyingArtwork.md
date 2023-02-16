@@ -79,79 +79,38 @@ _List of states available_
 
 | Current State	| Role	| Description	| Impact |
 | ------------- | ------------- | ------------- | ------------- |
-|SELL	|Owner|	The owner is in tittle to sale his artwork|	This will trigger the sale.<br>A personal sale smart contract on the blockchain will be generated. <br>The sale contract is active.<br> On the portal page, the artwork is displayed under “JUST LISTED"|
-|CANCEL	|Owner|	The seller has the possibility to withdraw his sale	The sale process is cancelled.<br>The sale smart contract becomes inactive.<br>The owner is able to sell his artwork if he wishes to do so.|
-| BUY NOW|	Buyer (user)|	The buyer can buy the artwork for the indicated price |	This will trigger the sale. <br>Seller side:<br>Seller’s wallet will be credited with the sale price less the fees, commissions and royalties applied in the contract sale.<br>Buyer side:<br>Buyer’s wallet will be debited for the entire amount of the transaction including applied fees.<br>The buyer becomes the new owner and as such he is now able to sale his new artwork.<br>Notifications will be sent to the seller and the buyer to inform them of the status change.<br>Sale smart contract on the blockchain becomes inactive.<br>On the portal page, the artwork is removed from “JUST LISTED” and is displayed under “JUST SOLD” |
-| MAKE AN OFFER	| User	| If a sale has been cancelled, any user is able to make a price offer.|	An offer and a notification are sent to the owner. The owner can accept or reject the offer.<br>If the offer is accepted a personal sale smart contract on the blockchain will be generated allowing only the two participants, the seller and the user whose offer has been accepted, to finalise the sale (private sale).<br>The artwork is displayed under “JUST LISTED” indicating this is a private sale.<br>Once the private sale is done, the buyer becomes the new owner. <br>On the portal page, the artwork is removed from “JUST LISTED” and is displayed under “JUST SOLD”.
+|SELL|Owner|	The owner is in tittle to sale his artwork|	This will trigger the sale.<br>A personal sale smart contract on the blockchain will be generated. <br>The sale contract is active.<br> On the portal page, the artwork is displayed under “JUST LISTED"|
+|CANCEL|Owner|	The seller has the possibility to withdraw his sale	| The sale process is cancelled.<br>The sale smart contract becomes inactive.<br>The owner is able to sell his artwork if he wishes to do so.|
+|BUY NOW|	Buyer (user)|	The buyer can buy the artwork for the indicated price |	This will trigger the sale. <br>Seller side:<br>Seller’s wallet will be credited with the sale price less the fees, commissions and royalties applied in the contract sale.<br>Buyer side:<br>Buyer’s wallet will be debited for the entire amount of the transaction including applied fees.<br>The buyer becomes the new owner and as such he is now able to sale his new artwork.<br>Notifications will be sent to the seller and the buyer to inform them of the status change.<br>Sale smart contract on the blockchain becomes inactive.<br>On the portal page, the artwork is removed from “JUST LISTED” and is displayed under “JUST SOLD” |
+|MAKE AN OFFER| User	| If a sale has been cancelled, any user is able to make a price offer.|	An offer and a notification are sent to the owner. The owner can accept or reject the offer.<br>If the offer is accepted a personal sale smart contract on the blockchain will be generated allowing only the two participants, the seller and the user whose offer has been accepted, to finalise the sale (private sale).<br>The artwork is displayed under “JUST LISTED” indicating this is a private sale.<br>Once the private sale is done, the buyer becomes the new owner. <br>On the portal page, the artwork is removed from “JUST LISTED” and is displayed under “JUST SOLD”.
 
 
-CANCEL action:
-Action	Role	Description	Owner	New State
-CANCEL	Seller	The sale process is cancelled.
-The sale smart contract becomes inactive.
-The owner can put his artwork for sale if he wishes to do so. 	Yes	SELL
-	Buyer	The sale has been aborted.
-The buyer still can make an offer to the owner of the artwork.	No	MAKE AN OFFER
+**CANCEL action:**
+| Action	    | Role	        | Description	| Owner         |New State     |
+| ------------- | ------------- | ------------- | ------------- |------------- |
+| CANCEL	| Seller| The sale process is cancelled.<br> The sale smart contract becomes inactive.<br>The owner can put his artwork for sale if he wishes to do so. |Yes|	SELL|
+|           | Buyer	| The sale has been aborted.<br> The buyer still can make an offer to the owner of the artwork.|	No |	MAKE AN OFFER |
 
-BUY NOW action:
-Action	Role	Description	Owner	New State
-BUY NOW	Buyer	The sale proceeded. 
-The buyer is now the new owner and he can sell his newly acquired artwork.	Yes	SELL
-	Former Seller / user 	The sale proceeded. Any user can make an offer. 	No	MAKE AN OFFER
+**BUY NOW action:**
+| Action	    | Role	        | Description	| Owner         |New State     |
+| ------------- | ------------- | ------------- | ------------- |------------- |
+| BUY NOW	| Buyer|	The sale proceeded. <br>The buyer is now the new owner and he can sell his newly acquired artwork.|Yes|	SELL|
+|           | Former Seller / user |	The sale proceeded. <br>Any user can make an offer.| 	No|	MAKE AN OFFER|
 
+### Different artwork’s states during a Timed Auction Sale:
 
-Different artwork’s states during a Timed Auction Sale:
-List of states available
- Current State	Role	Description	Impact
-SELL	Owner	The owner is in tittle to initiate a timed auction.	This will trigger the auction with the minimal basis price set. 
-A personal sale smart contract on the blockchain will be generated.
-The sale contract is active.
-On the portal page, the artwork is now displayed under “JUST LISTED”.
-CANCEL	Owner	If no bid has been done, the seller has the possibility to withdraw his auction.	The sale process is cancelled.
-The sale smart contract becomes inactive.
-The owner can put his artwork for sale if he wishes to do so. 
-A notification will be sent to the owner.
-PLACE A BID	Buyer / user	Any user can place a bid to initialise the auction. The time period set will start.	The first bid made will trigger and start the auction.
-The seller has been notified that the auction has been made. 
-On the portal page, the artwork will be now displayed under “LIVE AUCTIONS” with the actual price of the auction and the time period of the auction will be displayed.
-Further bids can be made as long as the auction is still on (time period is still running).
-The bid amount will be retained from the bidder’s wallet (bidder’s wallet is debited) on the sale smart contract until a new bid occurs.
-If a new bid occurs from a new bidder then the amount bid from the latest bid retained on the sale contract is returned to the former bidder (former bidder’s wallet is credited) and the new bid amount will be in turn retained on the sale smart contract (new bidder’s wallet is debited).
-Notifications will be sent to the seller, the formal bidder and the new bidder that a new bid occurred.
-TAKE HIGHEST BID	Owner	When the auction is still on, the owner is able to close the auction before the end of the defined period time and claim the current bid amount available on his artwork.	The owner gets credited of the bid amount less the fees, commissions and royalties applied in the contract sale.
-The winner gets debited of the entire bid amount including the applied fees defined in the contract sale.
-On the portal page, the artwork is removed from “LIVE AUCTION” and is displayed under “JUST SOLD”.
-The contract sale is inactive.
-The winner becomes the new owner and as such he is now able to sale his new artwork.
-Notifications will be sent to the seller and the winner to inform them of the status change.
-CLAIM	Last Bidder (winner)	When the auction is over (period time is ended), the winner of the bid is now able to claim his artwork.
+_List of states available_
 
-This action can be done only if the actual owner of the artwork has not claimed (MAKE TRANSFER AND GET PAID) his due.	The owner gets credited of the bid amount less the fees, commissions and royalties applied in the contract sale.
-The winner gets debited of the entire bid amount including the applied fees defined in the contract sale.
-The contract sale is inactive.
-The winner becomes the new owner and as such he is now able to sale his new artwork.
-Notifications will be sent to the seller and the winner to inform them of the status change.
-On the portal page, the artwork is removed from “LIVE AUCTION” and is displayed under “JUST SOLD”.
-
-CLAIM PENDING	Bidder / user	When the auction is over (period time is ended), any bidder and any user of the platform will be informed that the artwork is now on a ”CLAIM PENDING” status with the indication of the winner (last bidder).	Users and former bidders can only acknowledge that the auction is over. 
-Until no action has been made by the seller (MAKE TRANSFER AND GET PAID) or by the winner (CLAIM), the actual state “CLAIM PENDING” will be displayed.
-No action can be performed. 
-On the portal page, the artwork is removed from “LIVE AUCTION” and is displayed under “JUST SOLD”.
-
-MAKE TRANSFER AND GET PAID	Owner	When the auction is over (period time is ended), the actual owner (seller) is able to get the latest bid amount made on his artwork.
-
-This action can be done only if the winner has not claimed his artwork.	The owner gets credited of the bid amount less the fees, commissions and royalties applied in the contract sale.
-The winner gets debited of the entire bid amount including the applied fees defined in the contract sale.
-The contract sale is inactive.
-On the portal page, the artwork is removed from “LIVE AUCTION” and is displayed under “JUST SOLD”.
-The artwork ownership gets transferred to the latest bidder and as such he becomes the new owner.
-The new owner is now able to sale his new artwork.
-Notifications will be sent to the seller and the winner to inform them of the status change.
-MAKE AN OFFER	User	If an auction has been cancelled, any user is able to make a price offer.	An offer and a notification are sent to the owner. The owner can accept or reject the offer.
-If the offer is accepted a personal sale smart contract on the blockchain will be generated allowing only the two participants, the seller and the user whose offer has been accepted, to finalise the sale (private sale).
-The artwork is displayed under “JUST LISTED” indicating this is a private sale.
-Once the private sale is done, the private buyer becomes the new owner. 
-On the portal page, the artwork is removed from “JUST LISTED” and is displayed under “JUST SOLD”.
+| Current State	| Role	| Description	| Impact |
+| ------------- | ------------- | ------------- | ------------- |
+| SELL	        | Owner	| The owner is in tittle to initiate a timed auction.<br>This will trigger the auction with the minimal basis price set. <br> A personal sale smart contract on the blockchain will be generated.<br> The sale contract is active.<br>On the portal page, the artwork is now displayed under “JUST LISTED”. | 
+| CANCEL        |Owner	| If no bid has been done, the seller has the possibility to withdraw his auction.<br>The sale process is cancelled.<br>The sale smart contract becomes inactive.<br>The owner can put his artwork for sale if he wishes to do so. <br>A notification will be sent to the owner.
+| PLACE A BID	| Buyer / user|	Any user can place a bid to initialise the auction. The time period set will start.	The first bid made will trigger and start the auction.<br>The seller has been notified that the auction has been made.<br>On the portal page, the artwork will be now displayed under “LIVE AUCTIONS” with the actual price of the auction and the time period of the auction will be displayed.<br>Further bids can be made as long as the auction is still on (time period is still running).<br>The bid amount will be retained from the bidder’s wallet (bidder’s wallet is debited) on the sale smart contract until a new bid occurs.<br>If a new bid occurs from a new bidder then the amount bid from the latest bid retained on the sale contract is returned to the former bidder (former bidder’s wallet is credited) and the new bid amount will be in turn retained on the sale smart contract (new bidder’s wallet is debited).<br>Notifications will be sent to the seller, the formal bidder and the new bidder that a new bid occurred.
+| TAKE HIGHEST BID	|Owner	| When the auction is still on, the owner is able to close the auction before the end of the defined period time and claim the current bid amount available on his artwork.	The owner gets credited of the bid amount less the fees, commissions and royalties applied in the contract sale.<br>The winner gets debited of the entire bid amount including the applied fees defined in the contract sale.<br>On the portal page, the artwork is removed from “LIVE AUCTION” and is displayed under “JUST SOLD”.<br>The contract sale is inactive.<br>The winner becomes the new owner and as such he is now able to sale his new artwork.<br>Notifications will be sent to the seller and the winner to inform them of the status change.
+| CLAIM |	Last Bidder (winner)	| When the auction is over (period time is ended), the winner of the bid is now able to claim his artwork.<br>This action can be done only if the actual owner of the artwork has not claimed (MAKE TRANSFER AND GET PAID) his due.	The owner gets credited of the bid amount less the fees, commissions and royalties applied in the contract sale.<br>The winner gets debited of the entire bid amount including the applied fees defined in the contract sale.<br>The contract sale is inactive.<br>The winner becomes the new owner and as such he is now able to sale his new artwork.<br>Notifications will be sent to the seller and the winner to inform them of the status change.<br>On the portal page, the artwork is removed from “LIVE AUCTION” and is displayed under “JUST SOLD”.
+| CLAIM PENDING	| Bidder / user	| When the auction is over (period time is ended), any bidder and any user of the platform will be informed that the artwork is now on a ”CLAIM PENDING” status with the indication of the winner (last bidder).	Users and former bidders can only acknowledge that the auction is over. Until no action has been made by the seller (MAKE TRANSFER AND GET PAID) or by the winner (CLAIM), the actual state “CLAIM PENDING” will be displayed.<br>No action can be performed. <br>On the portal page, the artwork is removed from “LIVE AUCTION” and is displayed under “JUST SOLD”.
+| MAKE TRANSFER AND GET PAID|	Owner|	When the auction is over (period time is ended), the actual owner (seller) is able to get the latest bid amount made on his artwork.<br>This action can be done only if the winner has not claimed his artwork.	The owner gets credited of the bid amount less the fees, commissions and royalties applied in the contract sale.<br>The winner gets debited of the entire bid amount including the applied fees defined in the contract sale.<br>The contract sale is inactive.<br>On the portal page, the artwork is removed from “LIVE AUCTION” and is displayed under “JUST SOLD”. <br>The artwork ownership gets transferred to the latest bidder and as such he becomes the new owner.<br>The new owner is now able to sale his new artwork.<br>Notifications will be sent to the seller and the winner to inform them of the status change.<br>
+| MAKE AN OFFER|	User	|If an auction has been cancelled, any user is able to make a price offer.	An offer and a notification are sent to the owner. The owner can accept or reject the offer.<br>If the offer is accepted a personal sale smart contract on the blockchain will be generated allowing only the two participants, the seller and the user whose offer has been accepted, to finalise the sale (private sale).<br>The artwork is displayed under “JUST LISTED” indicating this is a private sale.<br>Once the private sale is done, the private buyer becomes the new owner. <br>On the portal page, the artwork is removed from “JUST LISTED” and is displayed under “JUST SOLD”.<br>
 
 No bid done yet / Artwork displayed under “JUST LISTED” on the portal page
 CANCEL action:  
