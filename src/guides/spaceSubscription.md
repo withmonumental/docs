@@ -73,10 +73,11 @@ where the sale occurred.
 **Guest Connection:**<br>
 As a member of a space you are still allowed to subscribe to another space where
 you are not a member. You will be then defined as a Guest if your subscription has
-been approved by the space manager.
+been approved by the space manager.<br>
+<br>
 To apply as a guest, from the detailed view of your artwork you wish to publish, under
 the section **Spaces +** you need to:<br>
-1. Click on **+** in the section **Space +**
+1. Click on **+** in the section **Spaces**
 2. A window **Subscription contract** appears
 3. Fill up the form:
 - Enter a start and end date for your subscription
@@ -98,10 +99,11 @@ flowchart LR
 ```
 
 Your subscription contract is on status **Pending (space)**<br>
-If the space manager approves your subscription, the status changes to **Active**. If
-the space manager rejected your subscription, then the status shows **Rejected**.<br>
+If the space manager approves your subscription, the status changes to **Active**.<br>
+If the space manager rejected your subscription, then the status shows **Rejected**.<br>
+<br>
 Once your subscription has been approved, on the detailed view of your artwork, a
-new line will appear under the section **Space +** indicating the space icon where
+new line will appear under the section **Spaces** indicating the space icon where
 you just subscribed and an information **Guest**.<br>
 Your artwork is now visible on the portal page under the section **JUST LANDED**.
 You will be able to sale your artwork on that space if you wish to do so.
@@ -113,10 +115,11 @@ However, by inheritance, the artwork can also be published in all the previous s
 
 ## Guest subscription
 All artist or collector that are not a member of a space can still subscribe to a space
-in order to publish his artwork.
+in order to publish his artwork.<br>
+<br>
 To apply as a guest, from the detailed view of your artwork you wish to publish, under
-the section **Spaces +** you need to:
-1. Click on **+** in the section **Space +**
+the section **Spaces** you need to:
+1. Click on **+** in the section **Spaces**
 2. A window **Subscription contract** appears
 3. Fill up the form:
 - Enter a start and end date for your subscription
@@ -129,7 +132,7 @@ space manager will see this message
 - Press **SUBSCRIBE**
 
 Your subscription is sent to the space manager for approval.<br>
-You will be able to follow the status of your subscription on your personal space.
+You will be able to follow the status of your subscription on your personal space.<br>
 To follow the status of you subscription, go to your profile as follows :
 
 ```mermaid
@@ -139,7 +142,8 @@ flowchart LR
 
 Your subscription contract is on status **Pending (space)**<br>
 If the space manager approves your subscription, the status changes to **Active**. <br>
-If the space manager rejected your subscription, then the status shows **Rejected**
+If the space manager rejected your subscription, then the status shows **Rejected**.<br>
+<br>
 Once your subscription has been approved, on the detailed view of your artwork, a
 new line will appear under the section **Space** indicating the space icon where
 you just subscribed and an information **Guest**.<br>
@@ -153,11 +157,12 @@ However, by inheritance, the artwork can also be published in all the previous s
 
 ## Accepting an offer on your artwork
 Monumental offers the functionality to accept offer made on your artwork and to
-trigger a private sale on a specific space where you are a member.
-From the detailed view of your artwork, select **show details** of the artwork.
+trigger a private sale on a specific space where you are a member.<br>
+From the detailed view of your artwork, select **show details** of the artwork.<br>
 Under the tab **OFFERS**, accept the offer listed. When accepting the offer, the
-window **Private Sell** appears. The system detects automatically any existing
-subscription linked to your artwork. If you wish to sale your artwork on an existing
+window **Private Sell** appears.<br>
+<br>
+The system detects automatically any existing subscription linked to your artwork. If you wish to sale your artwork on an existing
 space, simply select the space.
 1. Select the space where you like your artwork to be published
 2. Click NEXT
@@ -166,7 +171,8 @@ space, simply select the space.
 ## Selling your artwork but no subscription on a space
 As an owner of an artwork, you would like to sale your artwork or accept an offer
 made on your artwork in a space where you did not subscribe beforehand.
-Monumental gives the opportunity to still subscribe to that space.
+Monumental gives the opportunity to still subscribe to that space.<br>
+<br>
 From the detailed view of your artwork:
 - When pressing the action button **SELL** , the window **Sell an artwork**
 appears.
@@ -194,7 +200,7 @@ space manager will see this message
 - Press **SUBSCRIBE**
 
 Your subscription is sent to the space manager for approval.
-You will be able to follow the status of your subscription on your personal space.
+You will be able to follow the status of your subscription on your personal space.<br>
 To follow the status of you subscription, go to your profile as follows :
                                                 
 ```mermaid
@@ -203,10 +209,11 @@ flowchart LR
 ```
 Your subscription contract is on status **Pending (space)**<br>
 If the space manager approves your subscription, the status changes to **Active**.<br>
-If the space manager rejected your subscription, then the status shows **Rejected**
+If the space manager rejected your subscription, then the status shows **Rejected**.<br>
+<br>
 Once your subscription has been approved, on the detailed view of your artwork, a
 new line will appear under the section **Space** indicating the space icon where
-you just subscribed and an information **Guest**.
+you just subscribed and an information **Guest**.<br>
 Your artwork is now visible on the portal page under the section **JUST LANDED**.
 You will be able to sale your artwork on that space if you wish to do so.<br>   
 
