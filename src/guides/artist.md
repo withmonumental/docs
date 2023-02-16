@@ -138,15 +138,16 @@ Note: You are able to make a new subscription on a different space that the ones
 5.	Click **NEXT**
 6.	Information of your active contract is displayed, showing contract number, commissions and fees applied, royalties
 7.	Enter the price in ETH of the sale in the field “Price”
-8.	Choose **a Fixed Price auction** or **a Timed Auction** (24 hours sale period or Other : customised your sales period) – 
-For more details on Auction please refer to [Selling and buying Artwork on Monumental](/artist.md#Selling-and-buying-Artwork-on-Monumental)
+8.	Choose **a Fixed Price auction** or **a Timed Auction** (24 hours sale period or Other : customised your sales period).
+
+> For more details on Auction please refer to [Selling and buying Artwork on Monumental](/artist.md#Selling-and-buying-Artwork-on-Monumental)
 
 **Fixed Price Auction**<br> 
 9. Click **NEXT** <br>
 
 **Timed Auction**<br> 
 9.1 For a 24 hours timed Auction , press **24 H** <br>
-9.2 For a customised Timed Auction, press **OTHER**”<br>
+9.2 For a customised Timed Auction, press **OTHER**<br>
 9.3 Enter start date and time you want your auction to start
 9.4 Enter end date and time you want your auction to end<br>
     The auction duration will be compute using start and end datetime.<br>
@@ -155,7 +156,7 @@ For more details on Auction please refer to [Selling and buying Artwork on Monum
 
 10. A summary of your sell smart contract that you are going to generate is displayed<br>
 11.	Accept the conditions of sales and click **PUBLISH**
-12.	Your digital Wallet appears, approve the transaction
+12. From your digital wallet, approve the transaction
 13.	Your sell smart contract is created 
 14.	Transfer of contract ownership occurs, approve the transaction via your digital Wallet
 15.	Click **CLOSE** to close the window
@@ -176,7 +177,7 @@ The detailed view appears and **BUY NOW**  button is available in order to purch
 1. Agree with conditions of sales
 2. Press **BUY NOW**
 3. Your digital Wallet appears
-4. Approve the sale transaction in your wallet
+4. From your digital wallet, approve the transaction
 5. The sale transaction is completed
 6. Your wallet has been debited from the selling price including commissions and fees, royalties and network fees
 7. The status of the edition is **SELL** 
