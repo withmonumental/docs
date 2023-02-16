@@ -5,7 +5,7 @@ order: 1
 date: 2022-12-01
 ---
 
-Monumental, with registered office 914608211, (hereinafter **Monumental**) is the owner of the Monumental web site, mobile, tablet, or any other software, tools, features, or functionalities provided on or in connection with Monumental services (hereinafter the **Platform**) for the demand and supply of NFTs certifying the ownership of digital artworks (**NFT** ==/Digital Asset== in these T&C means a non-fungible token or similar digital item implemented on the Ethereum blockchain, which uses smart contracts to link to or otherwise be associated with certain content or data.). 
+Monumental, with registered office 914608211, (hereinafter **Monumental**) is the owner of the Monumental web site, mobile, tablet, or any other software, tools, features, or functionalities provided on or in connection with Monumental services (hereinafter the **Platform**) for the demand and supply of NFTs certifying the ownership of digital artworks (**NFT**     in these T&C means a non-fungible token or similar digital item implemented on the Ethereum blockchain, which uses smart contracts to link to or otherwise be associated with certain content or data.). 
 
 For purposes of these Terms and Conditions, “user”, “you”, and “your” means you as the user of the Platform. 
 
