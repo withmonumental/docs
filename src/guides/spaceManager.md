@@ -135,7 +135,7 @@ Once the collection is created, you still need to add some artworks. To do so, p
 At this stage, the collection is still not visible into Monumental because the collection is **unpublished**.<br>
 To finalise the promotion, click the **Publish** button.
 
-> The collection is now promoted and can be visible on the portal page under the section **COLLECTIONS**.
+The collection is now promoted and can be visible on the portal page under the section **COLLECTIONS**.
 
 ::: info
 Collection can be editing or removing.

@@ -140,7 +140,7 @@ Note: You are able to make a new subscription on a different space that the ones
 7.	Enter the price in ETH of the sale in the field “Price”
 8.	Choose **a Fixed Price auction** or **a Timed Auction** (24 hours sale period or Other : customised your sales period).
 
-> For more details on Auction please refer to [Selling and Buying Artwork](/guides/snb_artwork.md)
+For more details on Auction please refer to [Selling and Buying Artwork](/guides/snb_artwork.md)
 
 **Fixed Price Auction**<br> 
 9. Click **NEXT** <br>
