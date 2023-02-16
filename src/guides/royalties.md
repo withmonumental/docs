@@ -27,47 +27,11 @@ star: true
 copyright: No Copyright
 ---
 
-Content before `more` comment is regarded as page excerpt.
+In its current version on the Ethereum MainNet, the Monumental platform guarantees that a creator receives a portion of the profits from any future sales of his art, in other words Monumental guarantees that an artist will gain his desired royalties from any future sales of his work.
+Early this year, a new governing mechanism has been implemented by the Creator Ownership Research Institute (CORI) for enforcing and protecting creator royalties in the NFT ecosystem. This standard tool is called the Operator Filter Registry.
+This tool acts as a blocklist and is designed to allow token smart contracts to register themselves or be registered by their respective “owner”. The token contracts may then curate list of account addresses and other smart contracts that are not allowed to transfer tokens on behalf of users. 
+In a very near future Monumental’s ambition is to join CORI and be registered within its Operator Filter Registry to be recognised as an official platform that does respect and defend creator royalties. 
 
-<!-- more -->
 
-## Page Information
+https://corinstitute.co/faq
 
-You can set page information in Markdown’s Frontmatter.
-
-- The author is Ms.Hope.
-- The writing date is January 1, 2020
-- Category is "Guide"
-- Tags are "Page Config" and "Guide"
-
-## Page Content
-
-You are free to write your Markdown here.
-
-::: tip Assets
-
-- You can place images besides your Markdown files, but you should use **relative links** (i.e.: starting with `./`) for them.
-
-- For images in `.vuepress/public` directory, please use absolute links (i.e.: starting with `/`) for them.
-
-:::
-
-The theme contains a custom badge:
-
-> A dark blue badge text badge at the end of line. <Badge text="Badge text" color="#242378" />
-
-## Page Structure
-
-This page should contain:
-
-- [BreadCrumb](https://theme-hope.vuejs.press/guide/layout/breadcrumb.html)
-- [Title and information](https://theme-hope.vuejs.press/guide/feature/page-info.html)
-- [TOC (Table of Contents)](https://theme-hope.vuejs.press/guide/layout/page.html#header-list)
-- [Meta information including update time and contributors](https://theme-hope.vuejs.press/guide/feature/meta.html)
-- [Comments](https://theme-hope.vuejs.press/guide/feature/comment.html)
-- [Navbar](https://theme-hope.vuejs.press/guide/layout/navbar.html)
-- [Sidebar](https://theme-hope.vuejs.press/guide/layout/sidebar.html)
-- [Footer](https://theme-hope.vuejs.press/guide/layout/footer.html)
-- Back to top button
-
-You can customize them in theme options and page frontmatter.
