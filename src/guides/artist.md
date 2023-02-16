@@ -31,7 +31,7 @@ This guide is intending to explain activities of an artist and how to carry out 
 ## Becoming an artist on Monumental
 To be an artist on the Monumental platform, you have been either invited by a Space Manager or any other platform participant with the authority to provide invitation or you submitted an application online and it has been approved.
 
-- [Apply as an artist](https://monumental.app/apply/artist)
+[Apply as an artist](https://monumental.app/apply/artist)
 
 
 ## Overview
@@ -68,7 +68,10 @@ For more information about Standard and Community edition please refer to sectio
 -	Enter Attribute Settings, click “+” to validate your Attribute Settings
 3.	Accept the Space conditions in order to generate your NFT
 4.	Press **GENERATE**
-A “Digital Certificate Processing” window appears, by pressing “GENERATE” this will create the digital certificate ensuring your ownership over the artwork.
+
+<br>
+A **Digital Certificate Processing** window appears, by pressing **GENERATE** this will create the digital certificate ensuring your ownership over the artwork.
+<br>
 Follow the steps:
 1.	Press **GENERATE**
 2.	At step 3 **Waiting for approval** you will need to approve via your wallet (ex. Metamask) the transaction and applied fees with it
@@ -76,11 +79,12 @@ Follow the steps:
 4.	A confirmation message from the blockchain will occur to confirm the Digital certificate has been created on the ETH blockchain
 5.	Step 5 is reached, Bravo your NFT is generated and ready to be published !
 6.	Press **CLOSE**
-You will be directed to your personal profile under “CREATED” where you will find your new NFT.
+<br>
+You will be directed to your personal profile under **CREATED** where you will find your new NFT.
 
 **Creating a Community Edition:**
 1.	Upload your artwork using drag or drop or select file under the space reserved for this. 
-2	Fill up the form as follow:
+2.	Fill up the form as follow:
 -	Enter a Collection name, by default **no collection** – you can create a collection name or choose an existing one where your artwork will be associated to. 
 -	Enter a Edition Name (the name of your artwork)
 -	Enter a description.
@@ -99,15 +103,18 @@ You will be directed to your personal profile under “CREATED” where you will
 -	Enter “Attribute settings”, click “+” to validate your Attribute Settings
 5.	Accept the Space conditions in order to generate your NFT
 6.	Press **GENERATE**
+<br>
 A **Digital Certificate Processing** window appears, by pressing **GENERATE** this will create the digital certificate ensuring your ownership over the artwork.
+<br>
 Follow the steps:
-1	Press **GENERATE**
-2	At step 3 **Waiting for approval** you will need to approve via your wallet (ex. Metamask) the transaction and applied fees with it
-3	Once approved, step 4 is reached “Digital Certificate”
-4	A confirmation message from the blockchain will occur to confirm the Digital certificate has been created on the ETH blockchain
-5	Step 5 is reached, Bravo your NFT is generated and ready to be published !
-6	Press “CLOSE”
+1. Press **GENERATE**
+2. At step 3 **Waiting for approval** you will need to approve via your digital wallet the transaction and applied fees with it
+3. Once approved, step 4 is reached **Digital Certificate**
+4. A confirmation message from the blockchain will occur to confirm the Digital certificate has been created on the ETH blockchain
+5. Step 5 is reached, Bravo your NFT is generated and ready to be published !
+6. Press **CLOSE**
 
+<br>
 You will be directed to your personal profile under **CREATED** where you will find your new NFT.
 
 ## Selling NFT on Monumental
@@ -189,8 +196,9 @@ From the detailed view of your artwork follow these steps:
 ## Burning NFT on Monumental
 As the owner of a token, you are able to burn (destroy) your token. 
 The conditions to burn a token are:
--	You are the owner of this token
--	The token is not in a sale/auction process
+- You are the owner of this token
+- The token is not in a sale/auction process
+<br>
 <br>
 Burning your token will transfer it to an account (wallet addresses that can only received the burning token) called **eater** addresses. The act of burning a token effectively removes your token from the available supply and decreases the number in circulation.
 Burning a token will generate transaction network fees.

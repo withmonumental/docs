@@ -31,7 +31,8 @@ This guide is intending to explain activities of an artist and how to carry out 
 
 ## Becoming a collector on Monumental
 To be a collector on the Monumental platform, you have been either invited by a Space Manager or any other platform participants with the authority to provide invitation or you submitted an application online and it has been approved.
-•	Apply as an artist/collector
+
+[Apply as an artist](https://monumental.app/apply/artist)
 
 ## Selling NFT on Monumental
 In order for a collector to sell his digital artwork on Monumental, the collector has to be the owner of the artwork and it has to be published in a space. 
@@ -61,16 +62,18 @@ For more details on Auction please refer to **Selling and buying Artwork on Monu
 9.3 Enter start date and time  and end date and time<br>
 9.4 Click **NEXT**<br>
 
-10.	A summary of your sell smart contract that you are going to generate is displayed
-Timed Auction 
-11. Click **NEXT**
 10. A summary of your sell smart contract that you are going to generate is displayed
 11.	Accept the conditions of sales and click **PUBLISH**
 12.	Your digital Wallet appears (Metamask…), approve the transaction
 13.	Your sell smart contract is created 
 14.	Transfer of contract ownership occurs, approve the transaction via your digital Wallet
 15.	Click **CLOSE** to close the window
-16.	 Your artwork is now ready for sale with a status **CANCEL** (in case you change your mind and decide to cancel the sale – Attention this cancellation will generate network fees)
+16.	 Your artwork is now ready for sale with a status **CANCEL** 
+
+<br>
+::: warning
+In case you change your mind and decide to cancel the sale, this action will generate network fees)
+:::
 Any participants on the platform will see your artwork with a status indicating that your artwork is now for sale.
 For more information on edition status during a sale please refer to **Selling and buying Artwork on Monumental**
 
@@ -84,9 +87,10 @@ The detailed view appears and **BUY NOW** button is available in order to purcha
 3.	Your digital Wallet appears
 4.	Approve the sale transaction in your wallet
 5.	The sale transaction is completed
-Your wallet has been debited from the selling price including commissions and fees, royalties and network fees
+<br>    
+Your wallet has been debited from the selling price including commissions and fees, royalties and network fees.<br>
 The status of the edition is **SELL** 
-You are now the new owner of the edition (icon’s owner has been updated), the artist remains the same.
+You are now the new owner of the edition (icon’s owner has been updated), the artist remains the same.<br>
 To verify the transaction on Etherscan, from the detailed view, active the button **Show details** under the image of the artwork.
 Go to the tab **Owners** from the grid and click on the black **TX** button. This will direct you to Etherscan where you will be able to check the hash transaction of this sale action.
 
@@ -95,7 +99,7 @@ As an owner of a NFT you are able to send an edition of this NFT to another pers
 This can be done if your edition is not in an auction process.
 From the detailed view of your artwork follow these steps:
 1.	Select the token you would like to send
-2.	Click on the Three Points under the Editions section
+2.	Click on the **options button** ( ... )  under the **Editions section**
 3.	Select **Send edition**
 4.	A window appears, enter a valid ETH Public address of the person you want to send the selected edition
 5.	Press **SEND**
@@ -105,10 +109,11 @@ From the detailed view of your artwork follow these steps:
 9.	The edition is now available for sale on the second market for the new owner
 
 ## Burning NFT on Monumental
-As the owner of a token, you are able to burn (destroy) your token. 
+As the owner of a token, you are able to burn (destroy) your token. <br>
 The conditions to burn a token are:
 -	You are the owner of this token
 -	The token is not in a sale/auction process
+<br>
 <br>
 Burning your token will transfer it to an account (wallet addresses that can only received the burning token) called **eater** addresses. The act of burning a token effectively removes your token from the available supply and decreases the number in circulation.
 Burning a token will generate transaction network fees.
