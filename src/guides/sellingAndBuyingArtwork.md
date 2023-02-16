@@ -116,7 +116,7 @@ _List of states available_
 _CANCEL action:_
 
 | Action	  | Role	        | Description	| Owner         |New State     |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ---------- |
 | CANCEL	  | Seller	| The auction is cancelled.<br>The sale smart contract becomes inactive.<br>The owner is able to sell his artwork if he wishes to do so. |Yes	| SELL |
 |             |	Buyer	| The auction has been aborted.<br>The buyer still can make an offer to the owner of the artwork. |	No	|MAKE AN OFFER|
 
@@ -125,7 +125,7 @@ _CANCEL action:_
 _PLACE A BID action:_
 
 | Action	  | Role	        | Description	| Owner         |New State     |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |-----------|
 | PLACE A BID	|  Highest Bidder | 	When the first bid is made, the artwork is now displayed under “LIVE AUCTIONS”.<br>For further bid, the artwork stays under “LIVE AUCTIONS”, only the latest bid amount and the stopwatch are updated. <br>The highest bidder is still able to place a new bid.	| No	| PLACE A BID |
 |               | Seller| The seller still can abort and finalise the auction with the “TAKE HIGHEST BID” action button made available to him.	| Yes	| TAKE HIGHEST BID| 
 |               | User 	| Any user with available funds on his wallet is able to place a bid on the auction. Any new bid will increase by default the bid price by 10%. | 	No	| PLACE A BID| 
@@ -133,7 +133,7 @@ _PLACE A BID action:_
 _TAKE HIGHEST BID action:_
 
 | Action	  | Role	        | Description	| Owner         |New State     |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |----------|
 | TAKE HIGHEST BID	| Seller 	| The seller decided to close the auction and to get the actual bid amount offer.<br>The artwork is now displayed under “JUST SOLD”.|No	|MAKE AN OFFER |
 |                   | Highest Bidder (winner)| The auction has been aborted.<br>Once the seller has finalised the auction, the winner will own the artwork and be able to sell it.|Yes|	SELL|
 |                   | Bidder / User |The artwork is no more on auction.<br>Once the seller has finalised the auction,<br>user still can make an offer to the new owner of the artwork.	|No|	MAKE AN OFFER|
@@ -143,7 +143,7 @@ _TAKE HIGHEST BID action:_
 _CLAIM action:_
 
 | Action	  | Role	        | Description	| Owner         |New State     |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |----------|
 | CLAIM	 | Last Bidder (winner) 	| The last bidder won the auction. He is in title to claim his new artwork in order to finalise the auction.<br>The artwork is now displayed under “JUST SOLD”.<br>After claiming the artwork, the winner owns the artwork.	|Yes|	SELL |
 |        | Seller	| The seller has been notified that the auction is now done. <br> The actual status of the artwork is “Claim Pending”, still the seller has the action “MAKE TRANSFER AND GET PAID” made available to him. Once the winner has claimed the artwork, this action will disappear.	| No	| MAKE AN OFFER |
 |        |	Former bidders / User 	| The actual status of the artwork is “Claim Pending”.<br>None of these roles are able to interact on the artwork, until either the seller or the winner makes his respective action.|No	|MAKE AN OFFER |
@@ -152,7 +152,7 @@ _CLAIM action:_
 _MAKE TRANSFER AND GET PAID action:_
 
 | Action	  | Role	        | Description	| Owner         |New State     |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |----------|
 | MAKE TRANSFER AND GET PAID	|Seller  |	The seller has been notified that the auction is now done. <br>If the winner did not claim yet the artwork, the seller can finalise the auction by actioning “MAKE TRANSFER AND GET PAID”.<br>After finalising the auction, the ownership of the artwork gets to the winner.|No|	MAKE AN OFFER  |
 |                               | Last Bidder (winner)	|The winner has been notified that he won the auction.<br>The actual status of the artwork is “CLAIM”. <br>Once the seller actions “MAKE TRANSFER AND GET PAID”, the auction is finalised and the winner is now the new owner of the artwork.	| Yes	|SELL  |
 |                               |	Former bidders / User 	| The actual status of the artwork is “Claim Pending”.<br>None of these roles are able to interact on the artwork, until either the seller or the winner makes his respective action.|No|	MAKE AN OFFER |
