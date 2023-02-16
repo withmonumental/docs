@@ -29,11 +29,11 @@ As a collector, you have the opportunity to bring and display the pieces (artwor
 You will be able to sale your collection on the second market or to buy new token to increase your collection.
 This guide is intending to explain activities of an artist and how to carry out them on the platform.
 
-# Becoming a collector on Monumental
+## Becoming a collector on Monumental
 To be a collector on the Monumental platform, you have been either invited by a Space Manager or any other platform participants with the authority to provide invitation or you submitted an application online and it has been approved.
 •	Apply as an artist/collector
 
-# Selling NFT on Monumental
+## Selling NFT on Monumental
 In order for a collector to sell his digital artwork on Monumental, the collector has to be the owner of the artwork and it has to be published in a space. 
 Second Market available:
 Since the collector did not create the NFT itself (artist and owner Ethereum addresses are different), during the selling process the edition will be on the second market, and all associated commissions and fees of the space from the second market will be then applied.
