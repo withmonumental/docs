@@ -140,7 +140,7 @@ Note: You are able to make a new subscription on a different space that the ones
 7.	Enter the price in ETH of the sale in the field “Price”
 8.	Choose **a Fixed Price auction** or **a Timed Auction** (24 hours sale period or Other : customised your sales period).
 
-> For more details on Auction please refer to [Selling and buying Artwork on Monumental](/artist.md#Selling-and-buying-Artwork-on-Monumental)
+> For more details on Auction please refer to [Selling and Buying Artwork](/guides/snb_artwork.md)
 
 **Fixed Price Auction**<br> 
 9. Click **NEXT** <br>
@@ -167,7 +167,7 @@ In case you change your mind and decide to cancel the sale, this action will gen
 :::
 
 Any participants on the platform will see your artwork with a status indicating that your artwork is now for sale.
-For more information on edition status during a sale please refer to [Selling and buying Artwork on Monumental](/started/selling)
+For more information on edition status during a sale please refer to [Selling and Buying Artwork](/guides/snb_artwork.md)
 
 ## Buying NFT on Monumental
 As an artist you have the right to buy any NFT on sale (first and second market) on the platform provided of course that you have enough balance on your digital wallet to do so.<br>
