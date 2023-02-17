@@ -3,8 +3,6 @@ title: Code of conduct
 date: 2022-12-01
 order: 3
 ---
-A code of conduct is a critical document that outlines the expected behavior of all community members, including individuals and organizations who engage with the Monumenal platform. The following are some ways to improve the existing code of conduct:
-
 
 ## Definition
 A code of conduct is a set of guidelines that outlines the norms, rules, and responsibilities of individuals and organizations who engage with the Monumental platform. This document is crucial to maintaining a safe, respectful, and inclusive community that values diversity and encourages civil discourse. 
