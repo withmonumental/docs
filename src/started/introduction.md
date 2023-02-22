@@ -28,7 +28,7 @@ Welcome to Monumental, a cutting-edge NFT platform that empowers spaces like art
 <br>
 Our platform provides participants in the web 3.0 era with the tools they need to curate their own selection of artists and artworks, giving them the ability to promote and sell these artworks online.
 
-## What we believed
+## What we believe
 At Monumental, we believe in the power of the community and diversity. This is why we have created our platform to facilitate sales between galleries, artist collectives, and charities, allowing them to promote their individual talents and unique art styles.
 
 ## Our services
