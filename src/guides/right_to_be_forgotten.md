@@ -25,8 +25,6 @@ copyright: false
 footer: Monumental | Copyright © 2023
 ---
 At Monumental, artwork is the central piece of our ecosystem. We believe in freedom of choice, creator and collector decide by themself where and when their artworks can be displayed on the Platform for all to see. <br>
-This section is intending to guide you to understand publishing artwork on Monumental.
-
 
 This guide is intending to explain in a comprehensive manner how an user should perform the different actions offered to him during selling and buying processes.
 
@@ -51,7 +49,7 @@ Once your artwork has been submitted and approved to a space, it will be publish
 For more information about subscription, please refer to the section [Space Subscription](/guides/spaceSubscription.md).
 :::
 
-If you decide that you are not yet ready to show your artwork, you have the possibility to **unpublish** your artwork or to make invisible. This is the right to be forgotten.
+If you decide that you are not yet ready to show your artwork, you have the possibility to **unpublish** your artwork or to make invisible. This is also known as the right to be forgotten.
 
 To do this:
 1. Click on your artwork
@@ -69,17 +67,18 @@ If your artwork is not published in any space you will not be able to produce a 
 To simply publish the artwork again on the space, enable the slide button under the section **Spaces** of your artwork’s detailed view window. The colour of the slide button is now blue.
 
 ### Collected artworks
-When you collect or import your artworks onto Monumental using your digital wallet, they are not visible to anyone on the platform by default. <br>
+When you import your artworks onto Monumental using your digital wallet, they are not visible to anyone on the platform by default. <br>
+
+::: warning Important
+At Monumental, subscription inheritance is a crucial aspect of our platform. Whenever an artwork is sold on a space, the new owner of that collected artwork will have it automatically published on that space by default. This streamlines trading on the secondary market. For more information, please refer to [Space Subscription](/guides/spaceSubscription.md) guideline.
+:::
+
 However, as a collector, you have access to your personal space where you can view all of the artworks you have collected.
 
 ```mermaid
 flowchart LR
     id1(Your profile icon)-->id2(personal space)-->id3(Collected)
 ```
-
-::: warning Important
-At Monumental, subscription inheritance is a crucial aspect of our platform. Whenever an artwork is sold on a space, the new owner of that artwork will have it automatically published on that space by default. This streamlines trading on the secondary market. For more information, please refer to [Space Subscription](/guides/spaceSubscription.md) guideline.
-:::
 
 Once your artwork has been submitted and approved to a space, it will be published and visible to everyone on the platform. However, if you are not yet ready to showcase your artwork, you have the option to unpublish or make it invisible, which is also known as the right to be forgotten.
 
