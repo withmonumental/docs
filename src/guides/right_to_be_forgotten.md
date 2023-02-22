@@ -30,22 +30,13 @@ This section is intending to guide you to understand publishing artwork on Monum
 
 This guide is intending to explain in a comprehensive manner how an user should perform the different actions offered to him during selling and buying processes.
 
-## Becoming an artist on Monumental
-To be an artist on the Monumental platform, you have been either invited by a Space Manager or any other platform participant with the authority to provide invitation or you submitted an application online and it has been approved.
-
-[Apply as an artist](https://monumental.app/apply/artist)
-
-## Becoming a collector on Monumental
-To be a collector on the Monumental platform, you have been either invited by a Space Manager or any other platform participants with the authority to provide invitation or you submitted an application online and it has been approved.
-
-[Apply as a collector](https://monumental.app/apply/artist)
-
 ## Publishing artwork on Monumental
 
-### Artwork creation
-By creating a new artwork on Monumental,  ==??==
-For a **standard edition**, your artwork is by default not visible to anyone on the Platform. As an artist and owner of your artwork you will be the only person to see your new creation.
-For a **community edition**, your artwork is by default visible to everyone on the Platform, (your artwork will be displayed on the portal page under the section **JUST LANDED**) since when you created your artwork you selected the space where your community edition should be submitted.
+### Created artworks
+For a **standard edition**, your artwork is by default not visible to anyone on the Platform. As an artist and owner of your artwork you will be the only person to see your new creation.<br>
+<br>
+For a **community edition**, your artwork is by default visible to everyone on the Platform, (your artwork will be displayed on the portal page under the section **JUST LANDED**) since when you created your artwork you selected the space where your community edition should be submitted.<br>
+<br>
 In both cases you will be able to find you artwork under your personal space:
 
 
@@ -57,9 +48,10 @@ flowchart LR
 Once your artwork has been submitted and approved to a space, it will be published meaning that it will be visible to everyone on the Platform.
 
 ::: info Note
-For more information about subscription, please refer to the section **Space Subscription**.
-If you decide that you are not yet ready to show your artwork, you have the possibility to unpublish your artwork or to make invisible. This is the right to be forgotten.
+For more information about subscription, please refer to the section [Space Subscription](/guides/spaceSubscription.md).
 :::
+
+If you decide that you are not yet ready to show your artwork, you have the possibility to **unpublish** your artwork or to make invisible. This is the right to be forgotten.
 
 To do this:
 1. Click on your artwork
@@ -72,11 +64,13 @@ To do this:
 
 ::: info Note
 If your artwork is not published in any space you will not be able to produce a sale of your artwork.
-To simply publish the artwork again on the space, enable the slide button under the section **Spaces** of your artwork’s detailed view window. The colour of the slide button is now blue.
 :::
 
-### Artwork collected
-By collecting* or importing via your digital wallet your collected artwork on Monumental, your collected artwork is by default not visible to anyone on the Platform. As a collector you will be able to see your collected artworks under your personal space:
+To simply publish the artwork again on the space, enable the slide button under the section **Spaces** of your artwork’s detailed view window. The colour of the slide button is now blue.
+
+### Collected artworks
+When you collect or import your artworks onto Monumental using your digital wallet, they are not visible to anyone on the platform by default. <br>
+However, as a collector, you have access to your personal space where you can view all of the artworks you have collected.
 
 ```mermaid
 flowchart LR
@@ -84,10 +78,10 @@ flowchart LR
 ```
 
 ::: warning Important
-Subscription’s inheritance is a crucial theme on Monumental. Whenever an artwork has been sold on a space, by default the new owner of this artwork will have it published on that space. This is to ease the trading on second market. For more information, please refer to **Space Subscription** 
-Once your artwork has been submitted and approved to a space, it will be published meaning that it will be visible to everyone on the Platform.
-If you decide that you are not yet ready to show your artwork, you have the possibility to unpublish your artwork or to make invisible. This is the right to be forgotten.
+At Monumental, subscription inheritance is a crucial aspect of our platform. Whenever an artwork is sold on a space, the new owner of that artwork will have it automatically published on that space by default. This streamlines trading on the secondary market. For more information, please refer to [Space Subscription](/guides/spaceSubscription.md) guideline.
 :::
+
+Once your artwork has been submitted and approved to a space, it will be published and visible to everyone on the platform. However, if you are not yet ready to showcase your artwork, you have the option to unpublish or make it invisible, which is also known as the right to be forgotten.
 
 To do this:
 1. Click on your artwork
@@ -100,14 +94,16 @@ To do this:
 
 ::: info Note:
 If your artwork is not published in any space you will not be able to produce a sale of your artwork.
-To simply publish the artwork again on the space, enable the slide button under the section **Spaces** of your artwork’s detailed view window. The colour of the slide button is now blue.
 :::
 
-### Unpublishing artwork by a Space Manager 
+To simply publish the artwork again on the space, enable the slide button under the section **Spaces** of your artwork’s detailed view window. The colour of the slide button is now blue.
+
+## Unpublishing artwork by a Space Manager 
+
 It is important to mention, that a space manager is allowed as well to unpublish/publish an artwork from his managed space. 
 When you (as an artist or a collector) are submitting a subscription proposal to a space and the space manager approve your proposal, a space contract is created between you and the space manager.
-Please refer to the section **Space** for more details.
-Under this terms and condition or under the right to be forgotten, the space manager has the possibility to unpublish an artwork from his space. 
+Please refer to [Space](/started/spaces.md) guideline for more details.<br>
+
 If you are a space manager, to **unpublish/publish** an artwork displayed under your space, please follow these steps:
 
 ```mermaid
@@ -121,14 +117,15 @@ flowchart LR
 4. Select either **Member Contract** or **Guest Contract** depending on the space contract established with the artist or the collector
 5. Select in the list the artwork you wish to unpublish 
 6. The artwork will be displayed 
-7. Disable the **eye** (the eye is crossed out)
+7. Click on the **on space** button (the icon is crossed out)
 8. This action unpublished the artwork on the space
 9. To verify the artwork is unpublished, click on the artwork itself 
 10. This will direct you to the artwork detailed view 
 11. Under **Editions**, the space icon has disappeared indicating that the artwork is no more visible on the space
 
 ::: info Note
-As a reminder, if an artwork is not published in any space the artwork can be for sale. 
-To simply publish the artwork again on the space, enable the eye (the eye is no more crossed out) under the section **Space Contracts**.
-To verify the artwork is published, click on the artwork itself under the section **Space Contracts**. The detailed view of the artwork window appears, under the section **Editions** the space icon is present.
+As a reminder, if an artwork is not published in any space the artwork cannot be for sale. 
 :::
+
+To simply publish the artwork again on the space, click on the **on space**  button (the icon is no more crossed out) under the section **Space Contracts**.
+To verify the artwork is published, click on the artwork itself under the section **Space Contracts**. The detailed view of the artwork window appears, under the section **Editions** the space icon is present.
