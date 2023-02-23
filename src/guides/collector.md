@@ -7,7 +7,7 @@ pageInfo: false
 # This control sidebar order
 order: 2
 # Set author
-author: Ms.Hope
+author: Monumental Team
 # Set writing time
 date: 2020-01-01
 # A page can have multiple categories
@@ -23,6 +23,8 @@ sticky: true
 star: true
 copyright: false
 footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 ---
 
 As a collector, you have the opportunity to bring and display the pieces (artworks) in your collection through the different available spaces in Monumental. 

@@ -23,6 +23,8 @@ sticky: true
 star: true
 copyright: false
 footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 ---
 
 Currently, Monumental only generates digital certificates based on the ERC721 standard.

@@ -23,6 +23,8 @@ sticky: true
 star: true
 copyright: false
 footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 ---
 All authorised participants with a valid digital wallet and available funds are allowed trending artworks on Monumental. Not only Monumental gives access to first and second market but allows users who are not creator to mint fine arts on behalf of artists.<br>
 As an authorised user, Monumental has been designed in a such way that wherever you are browsing on the platform you have the possibility to buy or sale any published artworks. Moreover, you are allowed to make a price offer on artworks that you desired even if those artworks are not available on sale. The owner of the artwork will have then the option to accept or decline your offer.<br>

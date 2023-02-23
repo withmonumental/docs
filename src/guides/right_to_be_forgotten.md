@@ -25,7 +25,6 @@ copyright: false
 footer: Monumental | Copyright © 2023
 lastUpdated: false
 contributors: false
-
 ---
 At Monumental, artwork is the central piece of our ecosystem. We believe in freedom of choice, creator and collector decide by themself where and when their artworks can be displayed on the Platform for all to see. <br>
 

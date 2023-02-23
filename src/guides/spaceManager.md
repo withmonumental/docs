@@ -23,6 +23,8 @@ sticky: true
 star: true
 copyright: false
 footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 ---
 As a space manager, it is your responsibility to oversee and elevate the artists within your designated space. From your personal space, you have the ability to conduct a variety of tasks, including inviting individuals to join, promoting artists, making decisions on proposals, and efficiently managing collections, features, and drops.
 

@@ -23,6 +23,8 @@ sticky: true
 star: true
 copyright: false
 footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 ---
 Space’s goal is to elevate the visibility and financial success of the artists they
 support.<br>

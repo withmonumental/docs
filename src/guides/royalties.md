@@ -21,10 +21,10 @@ tag:
 sticky: true
 # this page will appear in starred articles
 star: true
-# You can customize footer content
-#footer: Footer content for test
-# You can customize copyright content
-copyright: No Copyright
+copyright: false
+footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 ---
 
 In its current version on the Ethereum MainNet, the Monumental platform guarantees that a creator receives a portion of the profits from any future sales of his art, in other words Monumental guarantees that an artist will gain his desired royalties from any future sales of his work.<br>

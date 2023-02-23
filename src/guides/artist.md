@@ -7,7 +7,7 @@ pageInfo: false
 # This control sidebar order
 order: 1
 # Set author
-author: Ms.Hope
+author: Monumental Team
 # Set writing time
 date: 2020-01-01
 # A page can have multiple categories
@@ -23,6 +23,8 @@ sticky: true
 star: true
 copyright: false
 footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 ---
 
 As an artist, you have the possibility to create digital artwork and to receive a digital certificate in order to ensure your ownership over your art. You will be then able to sell your artworks on the Monumental platform and gain royalties from any future sales of your work.
