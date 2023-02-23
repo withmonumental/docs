@@ -26,6 +26,7 @@ footer: Monumental | Copyright © 2023
 ---
 
 As an artist, you have the possibility to create digital artwork and to receive a digital certificate in order to ensure your ownership over your art. You will be then able to sell your artworks on the Monumental platform and gain royalties from any future sales of your work.
+<br>
 This guide is intending to explain activities of an artist and how to carry out them on the platform.
 
 ## Becoming an artist on Monumental
