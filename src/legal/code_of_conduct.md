@@ -2,6 +2,11 @@
 title: Code of conduct
 date: 2022-12-01
 order: 3
+star: true
+copyright: false
+footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 ---
 
 ## Definition

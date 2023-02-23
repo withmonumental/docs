@@ -22,6 +22,8 @@ sticky: true
 star: true
 copyright: false
 footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 ---
 
 Welcome to Monumental, a cutting-edge NFT platform that empowers spaces like art galleries, artist collectives, and charities to represent and sell the work of their artists.

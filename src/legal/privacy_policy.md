@@ -1,6 +1,11 @@
 ---
 title: Privacy policy
 order: 2
+star: true
+copyright: false
+footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 # Set writing time
 date: 2022-12-01
 ---

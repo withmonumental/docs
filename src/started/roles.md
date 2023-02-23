@@ -22,6 +22,8 @@ sticky: true
 star: true
 copyright: false
 footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 ---
 On Monumental, users can be assigned to one of the designated roles to grant them access to specific features. 
 Prior to any role change, the Monumental team performs a comprehensive assessment of the applicant to guarantee integrity and authenticity of available profiles.

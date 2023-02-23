@@ -2,6 +2,11 @@
 title: Cookie notice
 date: 2022-12-01
 order: 3
+star: true
+copyright: false
+footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
 ---
 
 This cookie notice applies to the Monumental web site and applications (“Monumental Plateform”). 
