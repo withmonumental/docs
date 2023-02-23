@@ -23,12 +23,15 @@ sticky: true
 star: true
 copyright: false
 footer: Monumental | Copyright © 2023
+lastUpdated: false
+contributors: false
+
 ---
 At Monumental, artwork is the central piece of our ecosystem. We believe in freedom of choice, creator and collector decide by themself where and when their artworks can be displayed on the Platform for all to see. <br>
 
-This guide is intending to explain in a comprehensive manner how an user should perform the different actions offered to him during selling and buying processes.
-
-## Publishing artwork on Monumental
+This guide is intending to explain how to apply the right to be forgotten.
+ 
+## Unpublishing artwork by owner
 
 ### Created artworks
 For a **standard edition**, your artwork is by default not visible to anyone on the Platform. As an artist and owner of your artwork you will be the only person to see your new creation.<br>
@@ -49,7 +52,7 @@ Once your artwork has been submitted and approved to a space, it will be publish
 For more information about subscription, please refer to the section [Space Subscription](/guides/spaceSubscription.md).
 :::
 
-If you decide that you are not yet ready to show your artwork, you have the possibility to **unpublish** your artwork or to make invisible. This is also known as the right to be forgotten.
+If you decide that you are not yet ready to show your artwork, you have the possibility to **unpublish** your artwork or to make it invisible. This is also known as the right to be forgotten.
 
 To do this:
 1. Click on your artwork
@@ -117,7 +120,7 @@ flowchart LR
 5. Select in the list the artwork you wish to unpublish 
 6. The artwork will be displayed 
 7. Click on the **on space** button (the icon is crossed out)
-8. This action unpublished the artwork on the space
+8. The artwork on the space is not published anymore
 9. To verify the artwork is unpublished, click on the artwork itself 
 10. This will direct you to the artwork detailed view 
 11. Under **Editions**, the space icon has disappeared indicating that the artwork is no more visible on the space
