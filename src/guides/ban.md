@@ -61,8 +61,8 @@ flowchart LR
 <br>
 By banning an artwork, this translates to the space contract between the seller and the space is on hold.
 If an artist or a collector tries to publish or sale his artwork on your space, the following message “Your artwork is banned from your space manager” appears. No publishing nor sale can occur.
-The only way to allow a publishing or a sale on a banned artwork is to the artwork 
 
+The only way to allow a publishing or a sale on a banned artwork is to remove the existing ban."
 
 ### Reverse a ban:
 
