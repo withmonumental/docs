@@ -28,7 +28,7 @@ contributors: false
 
 ---
 In the event that an artwork does not meet the artistic criteria of a space or the artwork’s ownership has not been verified or a disagreement occurs between the space manager and the artist or collector, the space manager has the option to ban the artwork from his space. By banning an artwork will result in the artwork is no more visible on the Platform. 
-<br<
+<br>
 At any times a ban can be reversed by the space manager.
 
 ::: warning Important
@@ -113,7 +113,7 @@ Your artwork has been banned from your space manager. First understand the reaso
 An artwork banned from a space is no longer published on the Platform and therefore it is not visible anymore by anyone.
 As you are the owner, from the detailed view page of the banned artwork under the section “Editions”, you will notice that your artwork is not linked to the space icon (unpublishing). Moreover, under the section “Spaces” the slide button is grey out, preventing you to publish the artwork.
 if you try to publish or sell the banned artwork, the following message will be displayed 
-“Your artwork is banned from your space manager”.
+**Your artwork is banned from your space manager**.
 
 It is important to highlight, as long as the ban has not been lifted, your artwork will not be visible on the Platform and no sale related to this artwork can be produced.
 Only your space manager has the right to remove this ban.
