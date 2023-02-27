@@ -146,4 +146,4 @@ _Option2: Selling after a ban_
 12. You are now allowed to sale your artwork
 13. Proceed with the sale
 
-To get more details on how to sale an artwork on the Platform, please refer to section **Selling and Buying Artwork**.
+To get more details on how to sale an artwork on the Platform, please refer to section [Selling and Buying Artwork](/guides/snb_artwork.md).

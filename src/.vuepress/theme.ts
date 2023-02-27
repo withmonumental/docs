@@ -48,6 +48,7 @@ export default hopeTheme({
     encrypt: {
         config: {
             "/monumental/encrypt.html": ["monumental"],
+            "/guides/aws.html": ["aws"],
         },
     },
 
