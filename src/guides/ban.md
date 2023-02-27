@@ -138,9 +138,9 @@ _Option2: Selling after a ban_
 4. Your active space contract is listed with an option **Publish**
 5. Press **Publish**
 6. The following warning **Do you really want to publish your artwork** appears with two options **CANCEL** or **OK**
-7. By pressing OK you authorise your artwork to be published on the space
-8. By pressing CANCEL, your artwork is not published and no sale can occur
-9. Press OK, the warning disappears
+7. By pressing **OK** you authorise your artwork to be published on the space
+8. By pressing **CANCEL**, your artwork is not published and no sale can occur
+9. Press **OK**, the warning disappears
 10. The option **Publish** on your space contract has been removed
 11. Under the section **Spaces**, the slide button is now enabled (blue colour = publishing) 
 12. You are now allowed to sale your artwork
