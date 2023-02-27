@@ -220,3 +220,16 @@ From the detailed view of the artwork, select the token you owned and that you w
 5. An event message informs you that your token has been deleted
 6. Your token is removed from the overall edition
 7. The max supply of token’s edition will be decreased 
+
+## Banned NFT on Monumental
+As an owner of artworks, your artwork can be banned from a space. This decision has been
+taken by your space manager and the reasons behind this decision could be multiple (ex:
+your artwork does not reflect the creative spirit of the space). In a such case, your artwork is
+no more published on the Platform.
+
+::: info Note:
+A ban can only be applied to an artwork only if this artwork is not on sale.
+:::
+
+To fully understand the impacts and expectations of a banned artwork, please refer to the
+section [Ban Principles](/guides/ban.md).

@@ -111,6 +111,18 @@ By selecting one proposal, the space manager will be able to :
 If the space manager accepts the artwork, automatically a publishing contract will be generated with a specific valid period under the section **Guest Contract**. 
 This contract allows the artist to sale his artwork during a valid period on this space.
 
+### Ban an artwork on your space: 
+
+As a space manager, you have the right to decide to ban an artwork if there are well-founded reasons to believe this artwork should not be published anymore on your space. 
+
+::: info Note
+A ban can only be applied on space contracts that your own and managed.
+A ban can only be applied on artwork that are not on sale.
+:::
+
+For more details on this subject, please refer to the section [Ban Principles](/guides/ban.md).
+
+
 ## Handle digital promotion
 Under the **digital promotion section**, the space manager is able to promote artworks published on his space. 
 
@@ -176,3 +188,5 @@ Feature can be editing or removing.
 ### DROPS
 
 Coming soon
+
+
