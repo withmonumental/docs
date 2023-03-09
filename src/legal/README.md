@@ -10,7 +10,7 @@ footer: Monumental | Copyright © 2023
 
 <br>
 
-- [Terms and Conditions](tax.md)
+- [Terms and Conditions](tac.md)
 
 - [Privacy Policy](src/guides/privacy_policy.md)
 
