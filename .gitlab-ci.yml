@@ -13,8 +13,8 @@ Doc Build:
   stage: build
   # What to run on the job.
   script:
+    - npm install -g pnpm
     - yarn config set cache-folder .yarn
-    - yarn add pnpm
     - yarn add vuepress@next
     - yarn install --progress=false
     - yarn run build
