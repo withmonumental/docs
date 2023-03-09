@@ -11,9 +11,9 @@ Doc Build:
   # What to run on the job.
   script:
     #- yarn config set cache-folder .yarn
-    - yarn install --progress=false
-    - yarn add vuepress -D
-    - yarn run build
+    - npm install --progress=false
+    - npm install vuepress -D
+    - npm run build
     - docker build --build-arg NODE_ENV=production -t mnt-doc .
   artifacts:
     expire_in: 1 week
