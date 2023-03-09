@@ -1,8 +1,3 @@
-cache:
-  paths:
-  - node_modules/
-  - .yarn
-
 stages:
   - build
   - deploy
@@ -13,12 +8,8 @@ Doc Build:
   stage: build
   # What to run on the job.
   script:
-    - sudo npm config set prefix /usr/local
-    - sudo npm install gulp-cli -g
-    - sudo npm install gulp
-    - yarn config set cache-folder .yarn
     - yarn install --progress=false
-    - yarn add vuepress@2.0.0-beta.60
+    - yarn add vuepress@next -D
     - yarn run build
     - docker build --build-arg NODE_ENV=production -t mnt-doc .
   artifacts:
