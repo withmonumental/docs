@@ -1,28 +1,27 @@
-import { defineUserConfig } from "vuepress";
+import {defineUserConfig} from "vuepress";
 import theme from "./theme.js";
-import { searchPlugin } from '@vuepress/plugin-search'
+import { seoPlugin } from "vuepress-plugin-seo2";
 
 export default defineUserConfig({
-  base: "/",
+    base: "/",
 
-  head: [
-    ['link', { rel: 'icon', href: '/logo.png' }]
-  ],
+    head: [
+        ['link', {rel: 'icon', href: '/logo.png'}]
+    ],
 
-  locales: {
-    "/": {
-      lang: "en-US",
-      description: "Brings your valuable artworks to light",
-    }
-  },
+    locales: {
+        "/": {
+            lang: "en-US",
+            description: "Brings your valuable artworks to light",
+        }
+    },
 
-  //plugins: [
-  //  searchPlugin({
-  //    // options
-//  }),
-  // ],
+    plugins: [
+        seoPlugin({
+        }),
+    ],
 
-  theme,
+    theme,
 
-  shouldPrefetch: false,
+    shouldPrefetch: false,
 });

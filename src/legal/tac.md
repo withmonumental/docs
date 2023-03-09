@@ -6,6 +6,7 @@ copyright: false
 footer: Monumental | Copyright © 2023
 lastUpdated: false
 contributors: false
+print: false
 # Set writing time
 date: 2022-12-01
 ---
