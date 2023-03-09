@@ -1,6 +1,5 @@
 import {defineUserConfig} from "vuepress";
 import theme from "./theme.js";
-import { seoPlugin } from "vuepress-plugin-seo2";
 
 export default defineUserConfig({
     base: "/",
@@ -17,8 +16,6 @@ export default defineUserConfig({
     },
 
     plugins: [
-        seoPlugin({
-        }),
     ],
 
     theme,
