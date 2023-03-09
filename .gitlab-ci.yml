@@ -1,4 +1,7 @@
-
+cache:
+  paths:
+  - node_modules/
+  - .yarn
 
 stages:
   - build
@@ -10,10 +13,10 @@ Doc Build:
   stage: build
   # What to run on the job.
   script:
-    #- yarn config set cache-folder .yarn
-    - npm install --progress=false
-    - npm install vuepress -D
-    - npm run build
+    - yarn config set cache-folder .yarn
+    - yarn install --progress=false
+    - yarn add vuepress@2.0.0-beta.60 -D
+    - yarn run build
     - docker build --build-arg NODE_ENV=production -t mnt-doc .
   artifacts:
     expire_in: 1 week
