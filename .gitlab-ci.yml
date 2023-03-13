@@ -10,7 +10,7 @@ Doc Build:
   script:
     - yarn install
 #    - yarn add vuepress@next -D
-    - yarn run build
+    - NODE_OPTIONS=--max_old_space_size=4096 yarn run build
     - docker build --build-arg NODE_ENV=production -t mnt-doc .
   artifacts:
     expire_in: 1 week
