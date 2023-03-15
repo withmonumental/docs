@@ -24,7 +24,7 @@ publish stage:
     - git init
     - git add -A
     - git commit -m 'deploy'
-    - git push --set-upstream https://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@github.com/withmonumental/docs.git master
+    - git push --set-upstream https://withmonumental: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@github.com/withmonumental/docs.git master
   artifacts:
     paths:
       - public
