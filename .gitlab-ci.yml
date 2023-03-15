@@ -6,22 +6,23 @@ build stage:
   stage: build
   script:
     - yarn install
-    - NODE_OPTIONS=--max_old_space_size=4096 yarn build
+    - yarn build
   artifacts:
     paths:
-      - dist/
+      - public
 
 publish stage:
+  variables:
+    CI_DEBUG_TRACE: "true"
   stage: publish
   script:
     - pwd
     - echo $CI_COMMIT_SHORT_SHA
     - echo $CI_PROJECT_DIR
     - ls -l $CI_PROJECT_DIR/
-    - cp -r -u ./src/.vuepress/dist/* docs
-    - cp -R ./docs/* public
+    - cd public
     - git clone https://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@github.com/withmonumental/docs.git
-    - git add docs
+    - git add -A
     - git commit -m 'deploy'
     - git push
   artifacts:
