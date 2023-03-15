@@ -1,14 +1,27 @@
-image: node:18.12.1-alpine
-pages:
-  cache:
-    paths:
-      - node_modules/
+stages:
+  - build
+  - deploy
 
+# Job's name
+Doc Build:
+  # Define stage
+  stage: build
+  # What to run on the job.
   script:
-    - yarn install # npm install
+    - yarn install
+#    - yarn add vuepress@next -D
     - NODE_OPTIONS=--max_old_space_size=4096 yarn run build
+    - docker build --build-arg NODE_ENV=production -t mnt-doc .
   artifacts:
+    expire_in: 1 week
     paths:
-      - public
-  only:
-    - master
+      - dist/production
+
+Doc Deploy:
+  stage: deploy
+  script:
+    - cd dist/production
+    - git clone https://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@github.com/withmonumental/docs.git
+    - git add -A
+    - git commit -m 'deploy'
+    - git push -f git@github.com:withmonumental/docs.git master
