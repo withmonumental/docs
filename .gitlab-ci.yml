@@ -20,13 +20,12 @@ publish stage:
     - echo $CI_COMMIT_SHORT_SHA
     - echo $CI_PROJECT_DIR
     - ls -l $CI_PROJECT_DIR/
-    - git clone https://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@github.com/withmonumental/docs.git
+    #- git clone https://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@github.com/withmonumental/docs.git
     - cd public
+    - git init
     - git add -A
     - git commit -m 'deploy'
-    - git remote remove origin
-    - git remote add origin https://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@github.com/withmonumental/docs.git
-    - git push origin main
+    - git push -f https://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@github.com/withmonumental/docs.git
   artifacts:
     paths:
       - public
