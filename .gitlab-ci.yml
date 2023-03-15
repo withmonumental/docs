@@ -24,6 +24,8 @@ publish stage:
     - cd public
     - git add -A
     - git commit -m 'deploy'
+    - git remote remove origin
+    - git remote add origin https://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@github.com/withmonumental/docs.git
     - git push origin main
   artifacts:
     paths:
