@@ -25,7 +25,7 @@ publish stage:
     - git init
     - git add -A
     - git commit -m 'deploy'
-    - git remote set-url origin https://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@github.com/withmonumental/docs.git
+    - git remote set-url main https://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@github.com/withmonumental/docs.git
     - git push
   artifacts:
     paths:
