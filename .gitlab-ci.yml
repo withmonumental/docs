@@ -16,7 +16,10 @@ publish stage:
   script:
     - pwd
     - ls -l
-    - cp -r -u ./dist/* docs
+    - cd ./src/.vuepress/
+    - ls -l
+    - cd -
+    - cp -r -u ./src/.vuepress/dist/* docs
     - cp -R ./docs/* public
     - git clone https://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@github.com/withmonumental/docs.git
     - git add docs
