@@ -1,7 +1,8 @@
 variables:
-  TOKEN: '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'
+  GITHUB_TOKEN: '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'
   GITHUB_ACCOUNT: 'withmonumental'
-  REPO: 'docs'
+  GITHUB_REPO: 'docs'
+  GITHUB_EMAIL: 'lionel@monumental.app'
 
 stages:
   - build
@@ -19,12 +20,12 @@ build stage:
 publish stage:
   stage: publish
   script:
-    - cd public
-    - git init
-    - git add */.*
+    - git clone https://$GITHUB_ACCOUNT:$GITHUB_TOKEN@github.com/$GITHUB_ACCOUNT/$GITHUB_REPO
+    - git checkout main
+    - cp -R public $GITHUB_REPO
+    - git config user.name  $GITHUB_ACCOUNT
+    - git config user.email $GITHUB_EMAIL
     - git commit -m "deploy $CI_COMMIT_SHORT_SHA"
-    - git remote add origin https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
-    - git pull origin main --allow-unrelated-histories
     - git push origin main
   artifacts:
     paths:
