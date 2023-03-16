@@ -17,6 +17,8 @@ deploy:
     - git config user.name  $GITHUB_ACCOUNT
     - git config user.email $GITHUB_EMAIL
     - NODE_OPTIONS=--max_old_space_size=4096 yarn build
+    - cd public
+    - git add -A
     - git commit -m "deploy $CI_COMMIT_SHORT_SHA"
     - git push origin main
   artifacts:
