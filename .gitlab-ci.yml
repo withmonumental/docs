@@ -21,8 +21,8 @@ deploy:
     - git add .
     - git commit -m "deploy $CI_COMMIT_SHORT_SHA"
     - git branch
-    - git remote --set-upstream https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
     - git remote -v
+#    - git remote --set-upstream https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
     - git push origin HEAD:main -o ci.skip
   artifacts:
     paths:
