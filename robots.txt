@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://monumental.app/docs/sitemap.xml
+Sitemap: https://docs.monumental.app/docs/sitemap.xml
