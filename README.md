@@ -1,3 +1,0 @@
-# Monumental Documentation
-
-Monumental Documentation 
