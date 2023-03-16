@@ -4,7 +4,7 @@ icon: home
 title: Home
 heroImage: /monumental.png
 heroText: Monumental
-tagline: Bring your valuable artworks to light :-)!!!!--sdll
+tagline: Bring your valuable artworks to light :-)!!
 actions:
   - text: Get Started
     link: /started/
