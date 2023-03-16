@@ -22,6 +22,7 @@ publish stage:
   script:
     - git clone https://$GITHUB_ACCOUNT:$GITHUB_TOKEN@github.com/$GITHUB_ACCOUNT/$GITHUB_REPO
     - git checkout main
+    - git pull origin
     - cp -R public $GITHUB_REPO
     - git config user.name  $GITHUB_ACCOUNT
     - git config user.email $GITHUB_EMAIL
