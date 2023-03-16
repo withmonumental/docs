@@ -13,7 +13,8 @@ deploy:
     - yarn install
     - git clone https://$GITHUB_ACCOUNT:$GITHUB_TOKEN@github.com/$GITHUB_ACCOUNT/$GITHUB_REPO public
     - cd public
-    - git checkout main
+    - git status
+    - git branch -u origin/main
     - git pull origin
     - git config user.name  $GITHUB_ACCOUNT
     - git config user.email $GITHUB_EMAIL
