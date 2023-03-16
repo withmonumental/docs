@@ -22,7 +22,7 @@ publish stage:
     - echo $CI_PROJECT_DIR
     - cd public
     - pwd
-    - ls -l
+    - ls -la
     - git init
     - git add */.*
     - git commit -m "deploy $CI_COMMIT_SHORT_SHA"
@@ -30,8 +30,8 @@ publish stage:
     - git remote add origin https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
     - git branch -M main
     - git remote -v
-    - git fetch
-    - git push -f origin main
+    - git pull
+    - git push origin main
   artifacts:
     paths:
       - public
