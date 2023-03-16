@@ -13,6 +13,7 @@ deploy:
     - yarn install
     - git clone https://$GITHUB_ACCOUNT:$GITHUB_TOKEN@github.com/$GITHUB_ACCOUNT/$GITHUB_REPO public
     - cd public
+    - git checkout main
     - git status
     - git config user.name  $GITHUB_ACCOUNT
     - git config user.email $GITHUB_EMAIL
@@ -24,7 +25,7 @@ deploy:
     - git remote -v
     - git remote set-url origin https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
     - git remote -v
-    - git push origin main
+    - git push origin origin
   artifacts:
     paths:
       - public
