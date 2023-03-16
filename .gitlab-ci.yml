@@ -30,7 +30,7 @@ publish stage:
     - git branch -M main
     - git remote -v
     - git fetch
-    - git push -u origin main
+    - git push -f origin main
   artifacts:
     paths:
       - public
