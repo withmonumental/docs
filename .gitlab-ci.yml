@@ -1,7 +1,7 @@
 variables:
   TOKEN: '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'
   GITHUB_ACCOUNT: 'withmonumental'
-  REPO: 'docs.git'
+  REPO: 'docs'
 
 stages:
   - build
@@ -19,15 +19,14 @@ build stage:
 publish stage:
   stage: publish
   script:
-    - git clone https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO public
-    - cd public
+    - git clone https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
+    - cp -R public $REPO
+    - cd $REPO
+    - ls -l
     - echo $CI_PROJECT_DIR
     - git branch
-    - git add -A
     - git commit -m "deploy $CI_COMMIT_SHORT_SHA"
-    - git remote remove origin
-    - git remote add origin https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
-    - git push origin HEAD:main
+    - git push
   artifacts:
     paths:
       - public
