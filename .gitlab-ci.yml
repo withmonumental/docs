@@ -14,16 +14,15 @@ deploy:
     - git clone https://$GITHUB_ACCOUNT:$GITHUB_TOKEN@github.com/$GITHUB_ACCOUNT/$GITHUB_REPO public
     - cd public
     - git status
-    - git branch -u origin/main
-    - git pull origin
     - git config user.name  $GITHUB_ACCOUNT
     - git config user.email $GITHUB_EMAIL
     - NODE_OPTIONS=--max_old_space_size=4096 yarn build
     - git add .
     - git commit -m "deploy $CI_COMMIT_SHORT_SHA"
     - git branch
+    - git status
     - git remote -v
-    - git remote set-url main https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
+    - git remote set-url origin https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
     - git remote -v
     - git push origin main
   artifacts:
