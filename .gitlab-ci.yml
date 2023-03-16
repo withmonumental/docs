@@ -19,11 +19,8 @@ build stage:
 publish stage:
   stage: publish
   script:
-    - pwd
-    - echo $CI_COMMIT_SHORT_SHA
-    - echo $CI_PROJECT_DIR
-    - ls -l $CI_PROJECT_DIR/
     - cd public
+    - echo $CI_PROJECT_DIR
     - git clone https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
     - git pull remote main
     - git add -A
