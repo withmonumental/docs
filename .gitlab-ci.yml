@@ -19,14 +19,16 @@ build stage:
 publish stage:
   stage: publish
   script:
-    - git clone https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
-    - cp -R public $REPO
-    - cd $REPO
-    - ls -l
     - echo $CI_PROJECT_DIR
-    - git branch
+    - cd public
+    - pwd
+    - git init
+    - git add -A
     - git commit -m "deploy $CI_COMMIT_SHORT_SHA"
-    - git push
+    - git branch
+    - git remote add https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
+    - git remote -v
+    - git push -u origin main
   artifacts:
     paths:
       - public
