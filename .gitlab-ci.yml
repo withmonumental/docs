@@ -1,3 +1,8 @@
+variables:
+  TOKEN: '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'
+  GITHUB_ACCOUNT: 'withmonumental'
+  REPO: 'docs.git'
+
 stages:
   - build
   - publish
@@ -12,8 +17,6 @@ build stage:
       - public
 
 publish stage:
-  variables:
-    CI_DEBUG_TRACE: "true"
   stage: publish
   script:
     - pwd
@@ -21,11 +24,12 @@ publish stage:
     - echo $CI_PROJECT_DIR
     - ls -l $CI_PROJECT_DIR/
     - cd public
-    - git clone https://withmonumental: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@github.com/withmonumental/docs.git
+    - git clone https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
+    - git pull
     - git add -A
     - git commit -m "deploy $CI_COMMIT_SHORT_SHA"
     - git remote remove origin
-    - git remote add origin https://withmonumental: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@github.com/withmonumental/docs.git
+    - git remote add origin https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
     - git push origin HEAD:main
   artifacts:
     paths:
