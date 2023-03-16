@@ -1,0 +1,101 @@
+<template><div><h1 id="monumental-space" tabindex="-1"><a class="header-anchor" href="#monumental-space" aria-hidden="true">#</a> Monumental Space</h1>
+<p>The statement expresses that Monumental places a strong emphasis on transparency in its operations by clearly indicating the fees and commissions it charges. The amount of fees and commissions that Monumental applies to an artwork sold depends on the specific type of space in which the artwork is being sold. By presenting the up-to-date rates to users, Monumental enables them to make informed decisions about the charges they will incur when selling their artwork on the platform, ultimately giving them more control over their selling process. It is noteworthy that the rates displayed accurately reflect the current fees and commissions that users will be subject to.</p>
+<h2 id="classic-space" tabindex="-1"><a class="header-anchor" href="#classic-space" aria-hidden="true">#</a> Classic Space</h2>
+<p><strong>Classic Commission</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">1st market</th>
+<th style="text-align:center">2nd market</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">10 %</td>
+<td style="text-align:center">0.25 %</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Monumental Platform Fees</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">1st market</th>
+<th style="text-align:center">2nd market</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">5 %</td>
+<td style="text-align:center">2.75 %</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="/spaceClassic.png" alt="Space Classic" tabindex="0" loading="lazy"><figcaption>Space Classic</figcaption></figure>
+<h2 id="collaborative-space" tabindex="-1"><a class="header-anchor" href="#collaborative-space" aria-hidden="true">#</a> Collaborative Space</h2>
+<p><em><strong>Collaborative Commission</strong></em></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">1st market</th>
+<th style="text-align:center">2nd market</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">10 %</td>
+<td style="text-align:center">0.25 %</td>
+</tr>
+</tbody>
+</table>
+<p><em><strong>Monumental Platform Fees</strong></em></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">1st market</th>
+<th style="text-align:center">2nd market</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">5 %</td>
+<td style="text-align:center">2.75 %</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="/spaceCollaborative.png" alt="Space Collaborative" tabindex="0" loading="lazy"><figcaption>Space Collaborative</figcaption></figure>
+<h2 id="charity-space" tabindex="-1"><a class="header-anchor" href="#charity-space" aria-hidden="true">#</a> Charity Space</h2>
+<p><strong>Charity Commission</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">1st market</th>
+<th style="text-align:center">2nd market</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">10 %</td>
+<td style="text-align:center">0.25 %</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Monumental Platform Fees</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">1st market</th>
+<th style="text-align:center">2nd market</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">0 %</td>
+<td style="text-align:center">0 %</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="/spaceCharity.png" alt="Space Charity" tabindex="0" loading="lazy"><figcaption>Space Charity</figcaption></figure>
+</div></template>
+
+

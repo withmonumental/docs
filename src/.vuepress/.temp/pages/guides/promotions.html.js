@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-6960486c\",\"path\":\"/guides/promotions.html\",\"title\":\"Digital promotions\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Digital promotions\",\"pageInfo\":false,\"order\":1,\"author\":\"Ms.Hope\",\"date\":\"2020-01-01T00:00:00.000Z\",\"category\":[\"Guide\"],\"tag\":[\"Page config\",\"Guide\"],\"sticky\":true,\"star\":true,\"footer\":\"Monumental | Copyright © 2023\",\"copyright\":false,\"description\":\"Collections Features Drops You can set page information in Markdown’s Frontmatter. The author is Ms.Hope.; The writing date is January 1, 2020; Category is \\\"Guide\\\"; Tags are \\\"Pa...\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://monumental.app/guides/promotions.html\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Digital promotions\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"Collections Features Drops You can set page information in Markdown’s Frontmatter. The author is Ms.Hope.; The writing date is January 1, 2020; Category is \\\"Guide\\\"; Tags are \\\"Pa...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"en-US\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"Ms.Hope\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"Page config\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"Guide\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2020-01-01T00:00:00.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"Digital promotions\\\",\\\"image\\\":[\\\"\\\"],\\\"datePublished\\\":\\\"2020-01-01T00:00:00.000Z\\\",\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"Ms.Hope\\\"}]}\"]]},\"headers\":[{\"level\":2,\"title\":\"Collections\",\"slug\":\"collections\",\"link\":\"#collections\",\"children\":[]},{\"level\":2,\"title\":\"Features\",\"slug\":\"features\",\"link\":\"#features\",\"children\":[]},{\"level\":2,\"title\":\"Drops\",\"slug\":\"drops\",\"link\":\"#drops\",\"children\":[]},{\"level\":2,\"title\":\"Page Content\",\"slug\":\"page-content\",\"link\":\"#page-content\",\"children\":[]},{\"level\":2,\"title\":\"Page Structure\",\"slug\":\"page-structure\",\"link\":\"#page-structure\",\"children\":[]}],\"readingTime\":{\"minutes\":0.94,\"words\":282},\"filePathRelative\":\"guides/promotions.md\",\"localizedDate\":\"January 1, 2020\",\"autoDesc\":true}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

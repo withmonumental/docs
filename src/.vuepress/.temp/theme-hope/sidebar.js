@@ -1,0 +1,1 @@
+export const sidebarData = {"/started/":["introduction","spaces","roles","commissionAndFees","register"],"/guides/":["artist","collector","aws","ban","right_to_be_forgotten","snb_artwork","spaceManager","spaceSubscription","smartContracts","royalties","faq"],"/legal/":["tac","privacy_policy","code_of_conduct","cookies"]};

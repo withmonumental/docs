@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/docs/\",\"lang\":\"en-US\",\"title\":\"Monumental Docs\",\"description\":\"Monumental guide for monumental users\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/logo.png\"}]],\"locales\":{\"/\":{\"lang\":\"en-US\",\"description\":\"Brings your valuable artworks to light\"}}}")
