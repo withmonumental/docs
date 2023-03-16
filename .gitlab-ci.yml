@@ -8,7 +8,7 @@ stages:
   - deploy
 
 deploy:
-  stage: build
+  stage: deploy
   script:
     - yarn install
     - git clone https://$GITHUB_ACCOUNT:$GITHUB_TOKEN@github.com/$GITHUB_ACCOUNT/$GITHUB_REPO public
