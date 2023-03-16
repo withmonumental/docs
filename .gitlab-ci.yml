@@ -26,7 +26,8 @@ publish stage:
     - git add -A
     - git commit -m "deploy $CI_COMMIT_SHORT_SHA"
     - git branch
-    - git remote add https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
+    - git remote add origin https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
+    - git branch -M main
     - git remote -v
     - git push -u origin main
   artifacts:
