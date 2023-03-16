@@ -30,7 +30,7 @@ publish stage:
     - git remote add origin https://$GITHUB_ACCOUNT:$TOKEN@github.com/$GITHUB_ACCOUNT/$REPO
     - git branch -M main
     - git remote -v
-    - git pull
+    - git pull origin main
     - git push origin main
   artifacts:
     paths:
